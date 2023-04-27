@@ -3,12 +3,12 @@
 home: true
 layout: BlogHome
 icon: home
-title: 互联网小白
+title: Naglfar28
 # heroImage: /logo.png
-heroText: 互联网小白
+heroText: Naglfar28
 # tagline: 盛年不重来，一日难再晨
-tagline: 目前域名已更换为 blog.dselegent.icu，之前的 blog.dselegent.cf 域名已设置重定向到此域名，请小伙伴们更新一下链接
-bgImage: http://tc.seoipo.com/home-bg-1.jpg
+tagline: 个人blog网站
+bgImage: http://oss.naglfar28.com/naglfar28/202304270911057.png
 # heroFullScreen: true
 # projects:
 #   - icon: project
