@@ -5,11 +5,11 @@ import sidebar from "./sidebar";
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  hostname: "https://blog.naglfar28.com",
+  hostname: "https://naglfar28.com",
 
   author: {
     name: "Naglfar28",
-    url: "https://blog.naglfar28.com",
+    url: "https://naglfar28.com",
   },
 
   iconAssets: "iconfont",
@@ -66,7 +66,7 @@ export default hopeTheme({
   displayFooter: true,
 
   // 页面布局 Frontmatter 配置：https://theme-hope.vuejs.press/zh/config/frontmatter/layout.html#pageinfo
-  pageInfo: ["Category", "Tag", "Word", "ReadingTime", "PageView"],
+  pageInfo: ["Category", "Tag", "Word", "ReadingTime", "PageView", "Date"],
 
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {
@@ -90,47 +90,47 @@ export default hopeTheme({
     },
 
     // 评论配置（仅做样例，记得更换）
-    comment: {
-      provider: "Waline",
-      serverURL: "https://waline.dselegent.icu",
-      reaction: [
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44d.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44f.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f60e.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f602.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f635-200d-1f4ab.png",
-      ],
-      // 部署 Waline：https://waline.js.org/guide/get-started.html
-      pageview: true, // 浏览量统计
-      locales: {
-        "/": {
-          // 表情互动提示文字
-          reactionTitle: "已到达文章底部，欢迎留言、表情互动~",
-          reaction0: "赞一个",
-          reaction1: "支持下",
-          reaction2: "有点酷",
-          reaction3: "啥玩意",
-          reaction4: "看不懂",
-          // Waline 等级标签
-          admin: "盛年不重来，一日难再晨",
-          level0: "锻体",
-          level1: "炼气",
-          level2: "筑基",
-          level3: "金丹",
-          level4: "元婴",
-          level5: "化神",
-        },
-      },
+    // comment: {
+    //   provider: "Waline",
+    //   serverURL: "https://waline.dselegent.icu",
+    //   reaction: [
+    //     "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44d.png",
+    //     "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44f.png",
+    //     "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f60e.png",
+    //     "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f602.png",
+    //     "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f635-200d-1f4ab.png",
+    //   ],
+    //   // 部署 Waline：https://waline.js.org/guide/get-started.html
+    //   pageview: true, // 浏览量统计
+    //   locales: {
+    //     "/": {
+    //       // 表情互动提示文字
+    //       reactionTitle: "已到达文章底部，欢迎留言、表情互动~",
+    //       reaction0: "赞一个",
+    //       reaction1: "支持下",
+    //       reaction2: "有点酷",
+    //       reaction3: "啥玩意",
+    //       reaction4: "看不懂",
+    //       // Waline 等级标签
+    //       admin: "盛年不重来，一日难再晨",
+    //       level0: "锻体",
+    //       level1: "炼气",
+    //       level2: "筑基",
+    //       level3: "金丹",
+    //       level4: "元婴",
+    //       level5: "化神",
+    //     },
+    //   },
 
-      // Giscus 备用配置
-      /*
-      provider: "Giscus",
-      repo: "rockbenben/LearnData",
-      repoId: "R_kgDOHdfk6Q",
-      category: "Comments",
-      categoryId: "DIC_kwDOHdfk6c4CQYNn",
-      */
-    },
+    //   // Giscus 备用配置
+    //   /*
+    //   provider: "Giscus",
+    //   repo: "rockbenben/LearnData",
+    //   repoId: "R_kgDOHdfk6Q",
+    //   category: "Comments",
+    //   categoryId: "DIC_kwDOHdfk6c4CQYNn",
+    //   */
+    // },
 
     // 组件库
     // components: {
