@@ -66,7 +66,7 @@ export default hopeTheme({
   displayFooter: true,
 
   // 页面布局 Frontmatter 配置：https://theme-hope.vuejs.press/zh/config/frontmatter/layout.html#pageinfo
-  pageInfo: ["Category", "Tag", "Word", "ReadingTime", "PageView", "Date"],
+  pageInfo: ["Category", "Tag", "Word", "ReadingTime", "PageView"],
 
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {

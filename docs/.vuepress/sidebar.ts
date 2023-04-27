@@ -10,6 +10,13 @@ export default sidebar([
     collapsible: true,
     children: [
       {
+        text: "视觉小说roadmap",
+        icon: "map",
+        prefix: "",
+        link: "视觉小说Roadmap.html",
+        collapsible: false,
+      },
+      {
         text: "kira🌟kira",
         icon: "",
         prefix: "kirakira/",
@@ -18,6 +25,14 @@ export default sidebar([
         children: "structure",
       },
     ],
+  },
+  {
+    text: "日语学习",
+    icon: "rank",
+    prefix: "/NihonGo/",
+    link: "",
+    collapsible: true,
+    children: "structure",
   },
   // 指定显示页面
   // {

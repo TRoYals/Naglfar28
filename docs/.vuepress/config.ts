@@ -5,6 +5,7 @@ import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 import { path } from "@vuepress/utils";
 import theme from "./theme";
+import { autoCatalogPlugin } from "vuepress-plugin-auto-catalog";
 
 export default defineUserConfig({
   // 网站语言，默认为中文
@@ -49,6 +50,9 @@ export default defineUserConfig({
     // 谷歌分析 ID
     googleAnalyticsPlugin({
       id: "G-RWKZTY2P9R",
+    }),
+    autoCatalogPlugin({
+      //插件选项
     }),
   ],
 });

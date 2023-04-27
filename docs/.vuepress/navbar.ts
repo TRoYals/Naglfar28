@@ -13,7 +13,9 @@ export default navbar([
   {
     text: "视觉小说",
     icon: "write",
+
     prefix: "/VisualNovel",
+
     children: [
       { text: "Kira Kira", icon: "star", link: "/kirakira/kira.html" },
     ],
@@ -22,7 +24,7 @@ export default navbar([
     text: "日语",
     icon: "format",
     prefix: "/NihonGo",
-    children: [{ text: "mahjong", icon: "star", link: "/立直判断.html" }],
+    children: [{ text: "日语roadmap", icon: "play", link: "/roadmap.html" }],
   },
   {
     text: "麻雀",
