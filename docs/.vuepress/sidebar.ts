@@ -6,7 +6,7 @@ export default sidebar([
     text: "工具",
     icon: "tool",
     prefix: "/Area/工具/",
-    link: "Area/视觉小说/kira🌟kira%20煌煌舞台/kira.html",
+    link: "/Area/工具/工具.html",
     collapsible: true,
     children: "structure",
   },
@@ -14,7 +14,7 @@ export default sidebar([
     text: "视觉小说",
     icon: "write",
     prefix: "/Area/视觉小说/",
-    link: "",
+    link: "/Area/视觉小说/视觉小说.html",
     collapsible: true,
     children: [
       {
@@ -31,10 +31,19 @@ export default sidebar([
     text: "日语学习",
     icon: "rank",
     prefix: "/Area/日语/",
-    link: "",
+    link: "/Area/日语/日语.html",
     collapsible: true,
     children: "structure",
   },
+  {
+    text: "前端",
+    icon: "html",
+    prefix: "/Area/前端/",
+    link: "/Area/前端/前端.html",
+    collapsible: true,
+    children: "structure",
+  },
+
   // 指定显示页面
   // {
   //   text: '🧰 应用手册',

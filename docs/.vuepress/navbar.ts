@@ -5,17 +5,31 @@ import { Icon } from "@iconify/vue";
 export default navbar([
   { text: "主页", icon: "home", link: "/" },
   {
-    text: "工具",
+    text: "前端",
+    icon: "html",
+    prefix: "/Area/前端",
+    children: [{ text: "前端roadmap", icon: "html", link: "/前端.html" }],
+  },
+  {
+    text: "后端",
     icon: "tool",
-    prefix: "/Area/工具",
-    children: [{ text: "必备应用", icon: "rank", link: "/必备应用.html" }],
+    prefix: "/Area/后端",
+    children: [{ text: "后端roadmap", icon: "rank", link: "/后端.html" }],
+  },
+  {
+    text: "数据科学",
+    icon: "calculate",
+    prefix: "/Area/数据科学",
+    children: [
+      { text: "Data Analyst", icon: "calculate", link: "/数据科学.html" },
+    ],
   },
   {
     text: "视觉小说",
     icon: "write",
 
     prefix: "/Area/视觉小说",
-
+    link: "",
     children: [
       {
         text: "Kira🌟kira",
