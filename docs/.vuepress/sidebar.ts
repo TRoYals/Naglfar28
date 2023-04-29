@@ -41,7 +41,16 @@ export default sidebar([
     prefix: "/Area/前端/",
     link: "/Area/前端/前端.html",
     collapsible: true,
-    children: "structure",
+    children: [
+      {
+        text: "javascript",
+        icon: "",
+        prefix: "javascript/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+    ],
   },
 
   // 指定显示页面
