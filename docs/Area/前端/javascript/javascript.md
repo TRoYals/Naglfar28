@@ -4,7 +4,7 @@ date: 2023-04-29 10:41
 article: false
 database: true
 star: false
-parents: [前端](前端.md)
+parents: 前端
 ---
 
 ::: test
