@@ -3,6 +3,14 @@ import { sidebar } from "vuepress-theme-hope";
 // 精选图标：https://theme-hope.vuejs.press/zh/guide/interface/icon.html#iconfont-%E7%B2%BE%E9%80%89%E5%9B%BE%E6%A0%87
 export default sidebar([
   {
+    text: "工具",
+    icon: "tool",
+    prefix: "/Area/工具/",
+    link: "Area/视觉小说/kira🌟kira%20煌煌舞台/kira.html",
+    collapsible: true,
+    children: "structure",
+  },
+  {
     text: "视觉小说",
     icon: "write",
     prefix: "/Area/视觉小说/",
@@ -12,7 +20,7 @@ export default sidebar([
       {
         text: "kira🌟kira",
         icon: "",
-        prefix: "kirakira🌟kira 煌煌舞台/",
+        prefix: "kira🌟kira 煌煌舞台/",
         link: "",
         collapsible: true,
         children: "structure",
