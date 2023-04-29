@@ -5,8 +5,8 @@ article: true
 star: false
 ---
 
-::: \1
-\2
+::: info
+a simple test
 :::
 
 ```js
