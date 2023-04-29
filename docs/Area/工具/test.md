@@ -5,9 +5,9 @@ article: true
 star: false
 ---
 
-```ad-info
-a simple test
-```
+::: \1
+\2
+:::
 
 ```js
 another test
