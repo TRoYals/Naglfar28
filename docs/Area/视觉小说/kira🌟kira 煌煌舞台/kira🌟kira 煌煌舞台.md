@@ -8,9 +8,9 @@ star: false
 
 > [!info]- info
 > parents::
-> children:: [[kira🌟kira 部分文章摘录]]　
+> children:: [kira🌟kira 部分文章摘录](kira🌟kira 部分文章摘录.md)　
 
-<span style="color: transparent;"> children:: [[kira🌟kira 部分文章摘录]]　</span>
+<span style="color: transparent;"> children:: [kira🌟kira 部分文章摘录](kira🌟kira 部分文章摘录.md)　</span>
 
 
 
