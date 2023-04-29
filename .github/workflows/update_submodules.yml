@@ -1,0 +1,29 @@
+name: Update Submodules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *' # 每小时运行一次
+  repository_dispatch:
+    types: [static_resource_updated]
+
+jobs:
+  update_submodules:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          ref: main
+          submodules: 'recursive'
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Update submodules
+        run: |
+          git submodule update --remote
+          git config user.name "GitHub Actions Bot"
+          git config user.email "aozora00321@gmail.com>"
+          git add .
+          git commit -m "Update submodules"
+          git push
