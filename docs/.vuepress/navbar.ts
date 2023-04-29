@@ -5,6 +5,12 @@ import { Icon } from "@iconify/vue";
 export default navbar([
   { text: "主页", icon: "home", link: "/" },
   {
+    text: "工具",
+    icon: "tool",
+    prefix: "/Area/工具/",
+    children: ["必备应用", "我的blog工作流", "工具笔记", "收藏网站"],
+  },
+  {
     text: "前端",
     icon: "html",
     prefix: "/Area/前端",
@@ -34,7 +40,7 @@ export default navbar([
       {
         text: "Kira🌟kira",
         icon: "play",
-        link: "/kira🌟kira 煌煌舞台/kira.html",
+        link: "/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.html",
       },
     ],
   },
@@ -42,13 +48,13 @@ export default navbar([
     text: "日语",
     icon: "format",
     prefix: "/Area/日语",
-    children: [{ text: "日语", icon: "play", link: "/roadmap.html" }],
+    children: [{ text: "日语", icon: "play", link: "/日语.html" }],
   },
   {
     text: "麻雀",
     icon: "rank",
     prefix: "/Area/麻雀",
-    children: [{ text: "mahjong", icon: "star", link: "/立直判断.html" }],
+    children: [{ text: "mahjong", icon: "rank", link: "/麻雀.html" }],
   },
   // {
   //   text: "项目",
