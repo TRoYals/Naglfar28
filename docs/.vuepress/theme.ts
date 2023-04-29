@@ -37,9 +37,9 @@ export default hopeTheme({
   // 默认为 GitHub. 同时也可以是一个完整的 URL
   repo: "TRoYals",
   // 编辑此页的地址设置
-  docsRepo: "https://github.com/TRoYals",
+  docsRepo: "https://github.com/TRoYals/notes",
   docsBranch: "main",
-  docsDir: "docs",
+  docsDir: "./",
   editLinkPattern: ":repo/edit/:branch/:path",
   // 自定义仓库链接文字。默认从 `repo` 中自动推断为 "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
   repoLabel: "GitHub",
@@ -77,7 +77,7 @@ export default hopeTheme({
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      GitHub: "https://github.com/TRoYals",
+      GitHub: "https://github.com/TRoYals/note",
       Gmail: "mailto:aozora00321@gmail.com",
       BiliBili: "https://space.bilibili.com/95443509",
     },
