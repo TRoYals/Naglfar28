@@ -7,29 +7,33 @@ export default navbar([
   {
     text: "工具",
     icon: "tool",
-    prefix: "/notes/Area/01 工具",
+    prefix: "/Area/工具",
     children: [{ text: "必备应用", icon: "rank", link: "/必备应用.html" }],
   },
   {
     text: "视觉小说",
     icon: "write",
 
-    prefix: "/VisualNovel",
+    prefix: "/Area/视觉小说",
 
     children: [
-      { text: "Kira Kira", icon: "star", link: "/kirakira/kira.html" },
+      {
+        text: "Kira🌟kira",
+        icon: "play",
+        link: "/kira🌟kira 煌煌舞台/kira.html",
+      },
     ],
   },
   {
     text: "日语",
     icon: "format",
-    prefix: "/NihonGo",
-    children: [{ text: "日语roadmap", icon: "play", link: "/roadmap.html" }],
+    prefix: "/Area/日语",
+    children: [{ text: "日语", icon: "play", link: "/roadmap.html" }],
   },
   {
     text: "麻雀",
     icon: "rank",
-    prefix: "/mahjong",
+    prefix: "/Area/麻雀",
     children: [{ text: "mahjong", icon: "star", link: "/立直判断.html" }],
   },
   // {

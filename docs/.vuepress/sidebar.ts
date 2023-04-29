@@ -5,21 +5,14 @@ export default sidebar([
   {
     text: "视觉小说",
     icon: "write",
-    prefix: "/VisualNovel/",
+    prefix: "/Area/视觉小说/",
     link: "",
     collapsible: true,
     children: [
       {
-        text: "视觉小说roadmap",
-        icon: "map",
-        prefix: "",
-        link: "视觉小说Roadmap.html",
-        collapsible: false,
-      },
-      {
         text: "kira🌟kira",
         icon: "",
-        prefix: "kirakira/",
+        prefix: "kirakira🌟kira 煌煌舞台/",
         link: "",
         collapsible: true,
         children: "structure",
@@ -29,7 +22,7 @@ export default sidebar([
   {
     text: "日语学习",
     icon: "rank",
-    prefix: "/NihonGo/",
+    prefix: "/Area/日语/",
     link: "",
     collapsible: true,
     children: "structure",
