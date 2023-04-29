@@ -7,8 +7,8 @@ export default navbar([
   {
     text: "工具",
     icon: "tool",
-    prefix: "/tool/",
-    children: ["blog"],
+    prefix: "/notes/Area/01 工具",
+    children: [{ text: "必备应用", icon: "rank", link: "/必备应用.html" }],
   },
   {
     text: "视觉小说",
