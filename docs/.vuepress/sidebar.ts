@@ -42,6 +42,14 @@ export default sidebar([
         collapsible: true,
         children: "structure",
       },
+      {
+        text: "日语学习",
+        icon: "",
+        prefix: "日语学习/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
     ],
   },
   {
@@ -73,6 +81,14 @@ export default sidebar([
         text: "javascript",
         icon: "",
         prefix: "javascript/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
+      {
+        text: "TypeScript",
+        icon: "",
+        prefix: "typescript/",
         link: "",
         collapsible: true,
         children: "structure",
@@ -112,6 +128,13 @@ export default sidebar([
         children: "structure",
       },
     ],
+  },
+  {
+    text: "阅读",
+    icon: "read",
+    prefix: "/Area/阅读/",
+    collapsible: true,
+    children: "structure",
   },
 
   // 指定显示页面
