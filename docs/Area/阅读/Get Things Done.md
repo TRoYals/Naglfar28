@@ -8,9 +8,9 @@ check: 0
 
 引子
 
-```ad-info test
+::: info test
 XXX
-```
+:::
 
 ## The Art of Getting Things Done
 
