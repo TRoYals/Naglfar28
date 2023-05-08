@@ -50,6 +50,14 @@ export default sidebar([
         collapsible: true,
         children: "structure",
       },
+      {
+        text: "日语单词",
+        icon: "",
+        prefix: "日语单词/",
+        link: "",
+        collapsible: true,
+        children: "structure",
+      },
     ],
   },
   {
