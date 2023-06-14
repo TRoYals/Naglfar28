@@ -81,7 +81,7 @@ def validator_name(cls, values):
 
 ## Learn by Case
 ### case LangChain
-[LangChain ](../../../源码/LangChain%20源码解析)中的许多地方都用到了pydantic库. 这里选择了他第一次commit时提交的数据进行分析
+[LangChain ](../../../开源项目/LangChain%20源码解析-按提交顺序)中的许多地方都用到了pydantic库. 这里选择了他第一次commit时提交的数据进行分析
 
 ```python
 """Wrapper around OpenAI APIs."""
