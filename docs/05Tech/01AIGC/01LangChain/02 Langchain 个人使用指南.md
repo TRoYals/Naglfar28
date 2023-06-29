@@ -246,16 +246,6 @@ Please try again. Please only respond with an answer that satisfies the constrai
 
 ##### RetryOutputParser()
 
-<<<<<<< HEAD:docs/Area/开源项目/Langchain 个人使用指南.md
-
-不想总结了 有时间在做吧
-
-- [ ] 总结这一章 📅 2023-06-25🛫 2023-06-19
-
-##### StructuredOutputParser()
-
-# 弃用
-
 不想总结了 有时间在做吧
 
 - [ ] 总结这一章 🛫 2023-06-19 📅 2023-06-25
@@ -305,7 +295,7 @@ memory.load_memory_variables({})
 
 #### 在 [#Chains](.md#Chains) 中使用 Memory
 
-[#ConversationChain()](<.md#ConversationChain()>)
+[#ConversationChain()](.md#ConversationChain())
 
 ##### adding_memory
 
@@ -411,5 +401,3 @@ new_messages = messages_from_dict(dicts)
 ##### ConversationChain()
 
 ##### load_qa_chain()
-
-> > > > > > > f531e95dd7f7cb62027907c0b41f0461e29295f4:docs/05Tech/01AIGC/01LangChain/02 Langchain 个人使用指南.md
