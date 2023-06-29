@@ -2,6 +2,7 @@
 article: true
 date: 2023-06-18 15:54
 ---
+
 ## modules
 
 ### Prompts
@@ -232,12 +233,12 @@ Please try again. Please only respond with an answer that satisfies the constrai
 
 #save 这个 OutputFixingParser 的调用方法还蛮有意思的感觉以后可以看源码来学习.
 
-
-
-
 ##### RetryOutputParser()
-不想总结了 有时间在做吧
-- [ ] 总结这一章 📅 2023-06-25🛫 2023-06-19 
-##### StructuredOutputParser()
-弃用
 
+不想总结了 有时间在做吧
+
+- [ ] 总结这一章 📅 2023-06-25🛫 2023-06-19
+
+##### StructuredOutputParser()
+
+弃用

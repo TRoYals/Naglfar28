@@ -90,7 +90,7 @@ config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: false
-  group_folder_column: 
+  group_folder_column:
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
@@ -103,7 +103,7 @@ config:
   source_form_result: where database = true
   source_destination_path: /
   row_templates_folder: /
-  current_row_template: 
+  current_row_template:
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false
