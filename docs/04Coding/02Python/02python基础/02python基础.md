@@ -5,6 +5,8 @@ article: false
 tags: topic
 ---
 
-[01文件os](01文件os)  
-[02CS61A](02CS61A)
-[03异步编程](03异步编程)
+[01Lambda](01Lambda)  
+[02Decorators](02Decorators)  
+[03异步编程](03异步编程)  
+[04Python Type](04Python%20Type)  
+[05PEP规范](05PEP规范)
