@@ -7,55 +7,75 @@ export default navbar([
   {
     text: "工具",
     icon: "tool",
-    prefix: "/Area/工具/",
-    children: ["必备应用", "我的blog工作流", "工具笔记", "收藏网站"],
-  },
-  {
-    text: "前端",
-    icon: "html",
-    prefix: "/Area/前端",
-    children: [{ text: "前端roadmap", icon: "html", link: "/前端.html" }],
-  },
-  {
-    text: "后端",
-    icon: "tool",
-    prefix: "/Area/后端",
-    children: [{ text: "后端roadmap", icon: "rank", link: "/后端.html" }],
-  },
-  {
-    text: "数据科学",
-    icon: "calculate",
-    prefix: "/Area/数据科学",
+    prefix: "/08Tools/",
     children: [
-      { text: "Data Analyst", icon: "calculate", link: "/数据科学.html" },
+      { text: "系统", link: "01系统/01系统.html" },
+      { text: "展示", link: "03展示/03展示.html" },
+      { text: "文件相关", link: "04文件相关/04文件相关.html" },
+      { text: "网页展示", link: "05网页展示/05网页展示.html" },
     ],
   },
   {
-    text: "视觉小说",
-    icon: "write",
+    text: "阅读",
+    icon: "Read",
+    prefix: "/02Reading/",
+    children: [{ text: "视觉小说", link: "01视觉小说/01视觉小说.html" }],
+  },
+  {
+    text: "Coding",
+    icon: "network",
+    prefix: "/04Coding/",
+    children: [
+      { text: "Git", link: "01Git/01Git.html" },
+      { text: "python", icon: "python", link: "02Python/02Python.html" },
+    ],
+  },
+  // {
+  //   text: "前端",
+  //   icon: "html",
+  //   prefix: "/Area/前端",
+  //   children: [{ text: "前端roadmap", icon: "html", link: "/前端.html" }],
+  // },
+  // {
+  //   text: "后端",
+  //   icon: "tool",
+  //   prefix: "/Area/后端",
+  //   children: [{ text: "后端roadmap", icon: "rank", link: "/后端.html" }],
+  // },
+  // {
+  //   text: "数据科学",
+  //   icon: "calculate",
+  //   prefix: "/Area/数据科学",
+  //   children: [
+  //     { text: "Data Analyst", icon: "calculate", link: "/数据科学.html" },
+  //   ],
+  // },
+  // {
+  //   text: "视觉小说",
+  //   icon: "write",
 
-    prefix: "/Area/视觉小说",
-    link: "",
-    children: [
-      {
-        text: "Kira🌟kira",
-        icon: "play",
-        link: "/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.html",
-      },
-    ],
-  },
-  {
-    text: "日语",
-    icon: "format",
-    prefix: "/Area/日语",
-    children: [{ text: "日语", icon: "play", link: "/日语.html" }],
-  },
-  {
-    text: "麻雀",
-    icon: "rank",
-    prefix: "/Area/麻雀",
-    children: [{ text: "mahjong", icon: "rank", link: "/麻雀.html" }],
-  },
+  //   prefix: "/Area/视觉小说",
+  //   link: "",
+  //   children: [
+  //     {
+  //       text: "Kira🌟kira",
+  //       icon: "play",
+  //       link: "/kira🌟kira 煌煌舞台/kira🌟kira 煌煌舞台.html",
+  //     },
+  //   ],
+  // },
+  // {
+  //   text: "日语",
+  //   icon: "format",
+  //   prefix: "/Area/日语",
+  //   children: [{ text: "日语", icon: "play", link: "/日语.html" }],
+  // },
+  // {
+  //   text: "麻雀",
+  //   icon: "rank",
+  //   prefix: "/Area/麻雀",
+  //   children: [{ text: "mahjong", icon: "rank", link: "/麻雀.html" }],
+  // },
   // {
   //   text: "项目",
   //   icon: "network",
