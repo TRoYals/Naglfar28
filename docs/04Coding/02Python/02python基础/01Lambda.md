@@ -11,7 +11,7 @@ Python Lambda 简明记录
 
 ## 背景知识
 
-为了更深入的了解 Lambda,你需要了解什么是 [函数式编程](../../../09Tasks/函数式编程/01)
+为了更深入的了解 Lambda,你需要了解什么是 [函数式编程](../../../09Thoughts/code%20thoughts/函数式编程/01)
 
 ### Source
 
