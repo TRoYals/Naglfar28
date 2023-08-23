@@ -221,7 +221,7 @@ Body - Nested Models[¶](https://fastapi.tiangolo.com/tutorial/body-nested-model
 
 #### use Config to set the default
 
-Use [01pydantic](../04python三方库/01pydantic) to  
+Use [01 pydantic](../04python三方库/01%20pydantic) to  
 You can declare examples of the data your app can receive.
 
 Here are several ways to do it.
