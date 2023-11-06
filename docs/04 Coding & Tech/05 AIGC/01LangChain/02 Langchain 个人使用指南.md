@@ -293,7 +293,9 @@ memory.load_memory_variables({})
 可以通过 memory.chat_memory.add_message(\*history.messages)  
 把 chatmessge 加入到 buffer 里
 
-#### 在 Chains 使用 Memory
+#### 在 [#Chains](.md#Chains) 中使用 Memory
+
+[#ConversationChain()](.md#ConversationChain())
 
 ##### adding_memory
 
