@@ -8,9 +8,10 @@ export default navbar([
   {
     text: "阅读",
     icon: "Read",
-    prefix: "/02Reading/",
+    prefix: "/02 Reading/",
     children: [
-      { text: "视觉小说", link: "02 视觉小说/02 视觉小说.html" },
+      { text: "视觉小说", link: "01 视觉小说/01 视觉小说.html" },
+      { text: "书籍", link: "02 书籍/02 书籍.html" },
       { text: "游戏", link: "03 游戏/03 游戏.html" },
     ],
   },
