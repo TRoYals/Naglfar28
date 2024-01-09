@@ -79,7 +79,7 @@ export default hopeTheme({
     medias: {
       GitHub: "https://github.com/TRoYals/note",
       Gmail: "mailto:aozora00321@gmail.com",
-      BiliBili: "https://space.bilibili.com/95443509",
+      // BiliBili: "https://space.bilibili.com/,
     },
   },
   // 开发模式下是否启动热更新，显示所有更改并重新渲染
