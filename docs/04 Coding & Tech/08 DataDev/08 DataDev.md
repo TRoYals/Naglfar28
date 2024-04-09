@@ -5,5 +5,9 @@ article: false
 tags: 
 ---
 
-[尚硅谷大数据6.0](尚硅谷大数据6.0)
+```todoist
+filter: "#大数据开发"
+```
+
+[尚硅谷大数据6.0](尚硅谷大数据6.0)  
 [Hadoop](Hadoop/Hadoop)

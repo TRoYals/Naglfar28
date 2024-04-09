@@ -10,4 +10,4 @@ BigTable -> HBase
 
 ## Hadoop 教程个人实践
 [Hadoop安装](Hadoop安装)
-[HDFS阅读笔记](HDFS阅读笔记)
+[HDFS](HDFS)

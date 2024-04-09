@@ -1,7 +1,7 @@
 ---
 title: HDFS notes
 date: 2024-04-08 15:02
-article: true
+article: false
 tags: 
 ---
 
@@ -25,8 +25,11 @@ HDFS provides interfaces for applications to move themselves closer to where the
 - **NameNode and DataNodes**: Follows a master/slave architecture with the NameNode managing the file system namespace and DataNodes managing storage.
 - **File System Namespace**: Supports traditional hierarchical file organization but lacks support for user quotas and hard/soft links.
 
-## Persistence of HDFS
+## Persistence of HDFS (EditLog 和 FsImage)
 EditLog: a transaction log that records all changes made to the file system metadata.  
-FsImage: a static snapshot of the entire file system namespace, which includes the structure of files and directories, the mapping of files to data blocks, and file system properties.
+FsImage: a static snapshot of the entire file system namespace, which includes the structure of files and directories, the mapping of files to data blocks, and file system properties.  
+Checkpoint: EditLog, FsImage 的存储读写
 
-## Robustness
+## Data Organization
+<https://arc.net/l/quote/wjsxqeeo>
+
