@@ -53,7 +53,7 @@ export default sidebar([
   {
     text: "Japanese Learing",
     icon: "object",
-    prefix: "/07 Language/02 日语"
+    prefix: "/07 Language/02 日语",
     link: "/07 Language/02 日语.html",
     collapsible: true,
     children: "structure",
