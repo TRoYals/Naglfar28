@@ -50,6 +50,14 @@ export default sidebar([
     collapsible: true,
     children: "structure",
   },
+  {
+    text: "Japanese Learing",
+    icon: "object",
+    prefix: "/07 Language/02 日语"
+    link: "/07 Language/02 日语.html",
+    collapsible: true,
+    children: "structure",
+  },
   // {
   //   text: "视觉小说",
   //   icon: "write",
