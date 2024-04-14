@@ -12,7 +12,6 @@ export default hopeTheme({
     url: "https://naglfar28.com",
   },
 
-  iconAssets: "iconfont",
   logo: "/logo.png",
 
   // 是否全局启用路径导航
