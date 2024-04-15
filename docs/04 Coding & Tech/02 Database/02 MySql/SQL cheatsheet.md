@@ -20,7 +20,7 @@ tags:
 1. group by 在 order by 之前使用, 可以理解为 order by 是 return 里的一个依赖注入  
 
 怎么顺序打印  
-`Order by <name> desc/asc'
+`Order by {name} desc/asc'
 
 怎么去重
 ## Join
