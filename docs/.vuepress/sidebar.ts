@@ -62,9 +62,9 @@ export default sidebar([
     text: "Eveveryday",
     icon: "object",
     prefix: "/10IMYMEMINE/日记/",
-    link: "/10IMYMEMINE/日记.html",
-    collapsible: true,
-    children: "structure",
+    link: "/10IMYMEMINE/日记",
+    collapsible: false,
+    children: [],
   },
   // {
   //   text: "视觉小说",
