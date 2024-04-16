@@ -6,10 +6,10 @@ tags:
 ---
 
 为什么选择读 books?  
-[ROI on Reading ](../../02%20Reading/02%20书籍/The%20art%20of%20impossible.md#ROI)
+[ROI on Reading ](../../01%20Reading/02%20书籍/The%20art%20of%20impossible.md#ROI)
 
 ```ccard
 type: folder_brief_live
 ```
 
-[more books](../../02%20Reading/02%20书籍/02%20书籍)
+[more books](../../01%20Reading/02%20书籍/02%20书籍)
