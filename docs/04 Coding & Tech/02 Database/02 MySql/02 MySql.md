@@ -5,9 +5,7 @@ article: false
 tags: 
 cards-deck: 04 Coding & Tech::02 Database::02 MySql
 ---
-
-[MySql 笔记](MySql%20笔记)
-
+[sql组件库](sql组件库)
 ### Sql 日志
 redo log 和 bin log  
 ![](http://oss.naglfar28.com/naglfar28/202402191649927.png)
@@ -63,5 +61,4 @@ sql 标准的事务隔离级别:
 - **如果既有基于 `a` 的查询，也有基于 `a` 和 `b` 的联合查询**，那么 `(a, b)` 的索引顺序可以同时支持这两种查询。
 - **如果你还需要频繁地单独查询 `b` 字段**，那么除了 `(a, b)` 联合索引外，可能还需要一个单独的 `b` 索引。
 #### 索引下推
-
 

@@ -29,6 +29,7 @@ tags:
 ### cross join
 [1280. 学生们参加各科测试的次数 - 力扣（LeetCode）](https://leetcode.cn/problems/students-and-examinations/description/?envType=study-plan-v2&envId=sql-free-50)
 
+
 ## sql 常见函数
 `length`: 取长度  
 `datediff()`: 取日期差  
