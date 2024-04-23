@@ -12,7 +12,6 @@ export default hopeTheme({
     url: "https://naglfar28.com",
   },
 
-  iconAssets: "iconfont",
   logo: "/logo.png",
 
   // 是否全局启用路径导航
@@ -166,9 +165,9 @@ export default hopeTheme({
     },
 
     // rss 属性
-    feed: {
-      rss: true,
-      count: 10,
-    },
+    // feed: {
+    //   rss: true,
+    //   count: 10,
+    // },
   },
 });

@@ -9,23 +9,24 @@
     "docs:clean-dev": "vuepress dev docs --clean-cache"
   },
   "dependencies": {
-    "@vuepress/client": "2.0.0-beta.60",
-    "@vuepress/plugin-docsearch": "2.0.0-beta.60",
-    "@vuepress/plugin-google-analytics": "2.0.0-beta.60",
-    "@vuepress/utils": "2.0.0-beta.60",
+    "@vuepress/client": "^2.0.0-rc.9",
+    "@vuepress/plugin-docsearch": "2.0.0-rc.26",
+    "@vuepress/plugin-google-analytics": "2.0.0-rc.21",
+    "@vuepress/utils": "^2.0.0-rc.9",
     "commitizen": "^4.3.0",
     "cpx2": "^4.2.0",
-    "pnpm": "^7.0.0",
-    "vue": "^3.2.45",
-    "vuepress": "2.0.0-beta.60",
-    "vuepress-plugin-search-pro": "2.0.0-beta.166",
-    "vuepress-theme-hope": "2.0.0-beta.166"
+    "pnpm": "^7.33.7",
+    "vue": "^3.4.24",
+    "vuepress": "2.0.0-rc.9",
+    "vuepress-plugin-search-pro": "2.0.0-rc.37",
+    "vuepress-theme-hope": "2.0.0-rc.37"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.4.2",
-    "@commitlint/config-conventional": "^17.4.2",
-    "@iconify/vue": "^4.1.1",
-    "cz-git": "^1.6.1",
+    "@commitlint/cli": "^17.8.1",
+    "@commitlint/config-conventional": "^17.8.1",
+    "@iconify/vue": "^4.1.2",
+    "@vuepress/bundler-vite": "^2.0.0-rc.9",
+    "cz-git": "^1.9.1",
     "husky": "^8.0.3"
   },
   "script": {
