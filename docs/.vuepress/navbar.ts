@@ -35,6 +35,13 @@ export default navbar([
       },
     ],
   },
+  {
+    text: "Eveveryday",
+    icon: "object",
+    prefix: "/10IMYMEMINE/日记/",
+    link: "/10IMYMEMINE/日记",
+    children: [],
+  },
   // {
   //   text: "前端",
   //   icon: "html",
