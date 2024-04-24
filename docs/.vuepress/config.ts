@@ -1,53 +1,16 @@
 import { defineUserConfig } from "vuepress";
-// import { webpackBundler } from "@vuepress/bundler-webpack";
-// import { defineUserConfig } from "@vuepress/cli";
-import { searchProPlugin } from "vuepress-plugin-search-pro";
-import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
-import { path } from "@vuepress/utils";
-import theme from "./theme";
-import { viteBundler } from "@vuepress/bundler-vite";
-
-// import { webpackBundler } from "@vuepress/bundler-webpack";
+import theme from "./theme.js";
 
 export default defineUserConfig({
-  bundler: viteBundler({
-    viteOptions: {},
-    vuePluginOptions: {},
-  }),
-  // bundler: webpackBundler({
-  //   postcss: {},
-  //   vue: {},
-  // }),
-  // 网站语言，默认为中文
-  lang: "zh-CN",
-  // 网站标题
-  title: "On the Naglfar",
-  // 网站描述
-  description: "个人blog",
-
-  // 网站路径默认为主域名。如果网站部署在子路径下，比如 xxx.com/yyy，那么 base 应该被设置为 "/yyy/"
   base: "/",
-  head: [["meta", { name: "referrer", content: "no-referrer" }]],
+
+  lang: "en-US",
+  title: "On the Naglfar!",
+  description:
+    "Our lady-loves, phantasms of our brains. Dream fancies blown into soap-bubbles!",
+
   theme,
-  // 是否开启页面预拉取，如果服务器宽带足够，可改为 true，会提升其他页面加载速度
-  shouldPrefetch: true,
 
-  // 修改页面模板，https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/theme/templates/index.build.html
-  // 配置参考：https://vuepress.github.io/zh/reference/theme-api.html#templatebuild
-  templateBuild: path.resolve(__dirname, "templateBuild.html"),
-
-  // 禁止文件夹生成静态文件，参考 [VuePress 文档]（https://v2.vuepress.vuejs.org/zh/guide/page.html#routing）
-  pagePatterns: [
-    "**/*.md",
-    "!_temp",
-    "!reading",
-    "!.vuepress",
-    "!node_modules",
-  ],
-
-  plugins: [
-    googleAnalyticsPlugin({
-      id: "G-RWKZTY2P9R",
-    }),
-  ],
+  // Enable it with pwa
+  // shouldPrefetch: false,
 });

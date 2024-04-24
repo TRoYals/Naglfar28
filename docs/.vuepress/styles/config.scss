@@ -1,4 +1,3 @@
-// 代码块主题设置，而非网站主题
-// https://vuepress-theme-hope.gitee.io/v2/zh/guide/interface/code-theme.html
-$code-light-theme: 'one-light';
-$code-dark-theme: 'one-dark';
+// you can change config here
+$colors: #c0392b, #d35400, #f39c12, #27ae60, #16a085, #2980b9, #8e44ad, #2c3e50,
+  #7f8c8d !default;
