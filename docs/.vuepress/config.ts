@@ -7,11 +7,17 @@ import { path } from "@vuepress/utils";
 import theme from "./theme";
 import { viteBundler } from "@vuepress/bundler-vite";
 
+// import { webpackBundler } from "@vuepress/bundler-webpack";
+
 export default defineUserConfig({
   bundler: viteBundler({
     viteOptions: {},
     vuePluginOptions: {},
   }),
+  // bundler: webpackBundler({
+  //   postcss: {},
+  //   vue: {},
+  // }),
   // 网站语言，默认为中文
   lang: "zh-CN",
   // 网站标题
@@ -40,18 +46,6 @@ export default defineUserConfig({
   ],
 
   plugins: [
-    // algolia 全文搜索：没设置爬虫的话，需删除 docsearchPlugin 区块以使用节点搜索
-    // docsearchPlugin({
-    //   indexName: "newzone",
-    //   appId: "M4EXXEZIEG",
-    //   apiKey: "fd8891a9c4cc21e0ef4f11bf44f7a11e",
-    // }),
-    // 本地搜索，删除上方 docsearchPlugin 区块后生效
-    // searchProPlugin({
-    //   // 索引全部内容
-    //   indexContent: true,
-    // }),
-    // 谷歌分析 ID
     googleAnalyticsPlugin({
       id: "G-RWKZTY2P9R",
     }),

@@ -26,6 +26,7 @@
     "@commitlint/config-conventional": "^17.8.1",
     "@iconify/vue": "^4.1.2",
     "@vuepress/bundler-vite": "^2.0.0-rc.9",
+    "@vuepress/bundler-webpack": "^2.0.0-rc.9",
     "cz-git": "^1.9.1",
     "husky": "^8.0.3"
   },

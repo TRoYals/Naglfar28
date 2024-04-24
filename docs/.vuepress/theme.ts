@@ -84,9 +84,7 @@ export default hopeTheme({
   // 开发模式下是否启动热更新，显示所有更改并重新渲染
   hotReload: true,
   plugins: {
-    blog: {
-      excerpt: true,
-    },
+    blog: true,
 
     // 评论配置（仅做样例，记得更换）
     // comment: {
