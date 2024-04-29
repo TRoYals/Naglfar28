@@ -5,6 +5,8 @@ article: false
 tags: 
 cards-deck: 04 Coding & Tech::02 Database::02 MySql
 ---
+
+[MySql 八股文](MySql%20八股文)
 [sql组件库](sql组件库)
 ### Sql 日志
 redo log 和 bin log  
