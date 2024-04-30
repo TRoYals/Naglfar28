@@ -7,3 +7,4 @@ tags:
 # 天鹅之歌
 ![](http://oss.naglfar28.com/naglfar28/202312171030542.png)
 ![image.png](http://oss.naglfar28.com/naglfar28/202312171042156.png)
+![image.png](https://oss.naglfar28.com/naglfar28/202404300119457.png)
