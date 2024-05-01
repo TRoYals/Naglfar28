@@ -1,0 +1,252 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "8ae080a2-157c-4f0c-8446-19e0409c1647",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "公司名",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "9b032003-ee55-4d6b-8377-751214aeab45",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "公司性质",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "028dabbb-ec80-4fa3-b0d2-7158fd2ffcad",
+            "content": "外资",
+            "color": "light gray"
+          },
+          {
+            "id": "91578426-79e7-4c2b-a998-a35f8eb03e8c",
+            "content": "互联网",
+            "color": "red"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "79d84106-7984-41ad-b0a5-f625e134bc25",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "相关描述",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "ff92ad88-fc45-411b-a5e8-64a5d84e7341",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "官网",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "0cf1260a-f6d9-4d9d-bdce-c500cd69b161",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-05-01T14:33:22.236Z",
+        "lastEditedDateTime": "2024-05-01T14:35:03.267Z",
+        "cells": [
+          {
+            "id": "aed4e9ae-d3df-4831-a363-f2672c01b36e",
+            "isExternalLink": false,
+            "columnId": "8ae080a2-157c-4f0c-8446-19e0409c1647",
+            "dateTime": null,
+            "content": "amaris",
+            "tagIds": []
+          },
+          {
+            "id": "b152b533-6128-49d3-82d9-4c8ecf569fd4",
+            "isExternalLink": false,
+            "columnId": "9b032003-ee55-4d6b-8377-751214aeab45",
+            "dateTime": null,
+            "content": "",
+            "tagIds": [
+              "028dabbb-ec80-4fa3-b0d2-7158fd2ffcad"
+            ]
+          },
+          {
+            "id": "48dd5b0e-14ce-47c6-bcdb-08bf374c9b10",
+            "isExternalLink": false,
+            "columnId": "79d84106-7984-41ad-b0a5-f625e134bc25",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "343742d7-86c3-47f7-a969-882f78ae5221",
+            "isExternalLink": false,
+            "columnId": "ff92ad88-fc45-411b-a5e8-64a5d84e7341",
+            "dateTime": null,
+            "content": "https://careers.amaris.com/jobs",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "83d596a3-d142-4e66-b187-6699f045be08",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-05-01T14:42:32.548Z",
+        "lastEditedDateTime": "2024-05-01T14:42:39.501Z",
+        "cells": [
+          {
+            "id": "fd664149-d5ae-45f9-99fb-bc6e6765ffce",
+            "isExternalLink": false,
+            "columnId": "8ae080a2-157c-4f0c-8446-19e0409c1647",
+            "dateTime": null,
+            "content": "道富",
+            "tagIds": []
+          },
+          {
+            "id": "0e3115ce-cc0a-4e8b-87f0-21118ff0b73f",
+            "isExternalLink": false,
+            "columnId": "9b032003-ee55-4d6b-8377-751214aeab45",
+            "dateTime": null,
+            "content": "",
+            "tagIds": [
+              "028dabbb-ec80-4fa3-b0d2-7158fd2ffcad"
+            ]
+          },
+          {
+            "id": "d48ce82c-7636-4947-9503-76cb16ee3a86",
+            "isExternalLink": false,
+            "columnId": "79d84106-7984-41ad-b0a5-f625e134bc25",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "a5d26cd8-0637-4606-b1a6-86b2bb06d393",
+            "isExternalLink": false,
+            "columnId": "ff92ad88-fc45-411b-a5e8-64a5d84e7341",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "52c8d770-f43e-4da6-9e41-328437ca9659",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-05-01T14:42:44.255Z",
+        "lastEditedDateTime": "2024-05-01T14:48:47.905Z",
+        "cells": [
+          {
+            "id": "88c8c7e9-658f-49c1-8313-7181f5edf300",
+            "isExternalLink": false,
+            "columnId": "8ae080a2-157c-4f0c-8446-19e0409c1647",
+            "dateTime": null,
+            "content": "阿里",
+            "tagIds": []
+          },
+          {
+            "id": "b4a05ea6-766f-404c-9388-09eb8f8e32c1",
+            "isExternalLink": false,
+            "columnId": "9b032003-ee55-4d6b-8377-751214aeab45",
+            "dateTime": null,
+            "content": "",
+            "tagIds": [
+              "91578426-79e7-4c2b-a998-a35f8eb03e8c"
+            ]
+          },
+          {
+            "id": "8311eb81-5542-4d6d-b939-25ff24000436",
+            "isExternalLink": false,
+            "columnId": "79d84106-7984-41ad-b0a5-f625e134bc25",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "679cd1c1-25c9-48d5-a0c8-eaf46cacaad3",
+            "isExternalLink": false,
+            "columnId": "ff92ad88-fc45-411b-a5e8-64a5d84e7341",
+            "dateTime": null,
+            "content": "https://talent.alibaba.com/?lang=zh",
+            "tagIds": []
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.12.1"
+}
