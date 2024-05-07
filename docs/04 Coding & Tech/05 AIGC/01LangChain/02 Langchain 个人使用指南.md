@@ -107,7 +107,7 @@ parser.parse(" blue\n") #<Colors.BLUE: 'blue'>
 parser.parse("yellow") #报错
 ```
 
-感觉没什么用啊...
+感觉没什么用啊... 
 
 ##### PydanticOutputParser()
 
