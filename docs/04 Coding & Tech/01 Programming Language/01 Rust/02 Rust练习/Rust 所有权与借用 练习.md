@@ -3,7 +3,7 @@ title: Rust 所有权与借用 练习
 date: 2023-10-20 10:07
 article: false
 tags: 
-cards-deck: 04 Coding & Tech::01 Programming Language::01 Rust::02 Rust练习
+
 ---
 
 [所有权 - Rust By Practice( Rust 练习实践 )](https://zh.practice.rs/ownership/ownership.html)

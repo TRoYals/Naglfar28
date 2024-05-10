@@ -3,7 +3,7 @@ title: Rust 复合类型 练习
 date: 2023-10-20 14:23
 article: false
 tags: 
-cards-deck: 04 Coding & Tech::01 Programming Language::01 Rust::02 Rust练习
+
 ---
 
 ```rust

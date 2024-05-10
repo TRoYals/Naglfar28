@@ -3,7 +3,7 @@ title: MySql子目录
 date: 2024-02-19 15:54
 article: false
 tags: 
-cards-deck: 04 Coding & Tech::02 Database::02 MySql
+
 ---
 
 [MySql 八股文](MySql%20八股文)

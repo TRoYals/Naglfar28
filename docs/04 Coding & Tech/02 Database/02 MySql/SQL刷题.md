@@ -3,7 +3,7 @@ title: SQL练习
 date: 2024-02-19 13:04
 article: false
 tags: 
-cards-deck: 04 Coding & Tech::02 Database::02 MySql
+
 ---
 
 [sql top50](https://leetcode.com/studyplan/top-sql-50/)  

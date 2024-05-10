@@ -3,7 +3,7 @@ title: JavaScript Cheet Sheet
 date: 2024-02-07 16:30
 article: false
 tags: 
-cards-deck: 04 Coding & Tech::01 Programming Language::04 JavaScript
+
 ---
 
 ## 字符串操作
