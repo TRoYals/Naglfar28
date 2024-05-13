@@ -11,10 +11,7 @@ title: cross+channal
 
 ### 人与人的连接
 
-人与人应该以怎样的方式去连接？  
-和 obisidian 的连接又有怎么样的关系
 
-[obsidian 介绍#使用 obsidian 的注意事项](obsidian介绍.md#使用obsidian的注意事项)
 
 ![9F93D883-F019-4CE1-A61C-3D59683B286D_4_5005_c.jpeg](https://naglfar28.oss-ap-southeast-1.aliyuncs.com/naglfar28/9F93D883-F019-4CE1-A61C-3D59683B286D_4_5005_c.jpeg)
 

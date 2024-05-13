@@ -13,5 +13,13 @@ original_list = [0, 0, 1, 2, 0]
 filtered_list = [element for element in original_list if element != 0]
 print(filtered_list)
 ```
+```ts
+let originalList = [0, 0, 1, 2, 0];
+let filteredList = originalList.filter(element => element !== 0);
+console.log(filteredList);  // 输出: [1, 2]
+```
 
 
+python 生成 `n*m` 的矩阵  
+  
+`matrix = [[0 for _ in range(n)] for _ in range(m)]`

@@ -21,3 +21,7 @@ Meta -Tag 元素
 `integrity` 属性: 允许浏览器验证获取到的资源的完整性。脚本提供一个包含哈希值的 `integrity` 属性，可以确保脚本文件在传输过程中没有被篡改。  
 
 
+[HTML attribute: rel - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel)  
+  
+.
+
