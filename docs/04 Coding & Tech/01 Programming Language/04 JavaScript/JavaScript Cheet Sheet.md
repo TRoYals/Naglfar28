@@ -62,3 +62,10 @@ forEach 中的 return 只会退出当前步骤!!!!,
 Array.from(str).forEach(char => console.log(char));
 [...str].forEach(char => console.log(char));
 ```
+
+## 排序
+`[].sort((a,b)=>a-b)` 尤其是数字比大小特别要注意!!
+
+## 求和
+`[].reduce((a,b)=>a+b,0)`
+

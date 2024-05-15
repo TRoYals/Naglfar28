@@ -23,3 +23,8 @@ console.log(filteredList);  // 输出: [1, 2]
 python 生成 `n*m` 的矩阵  
   
 `matrix = [[0 for _ in range(n)] for _ in range(m)]`
+
+[Python SortedList的使用 - 知乎](https://zhuanlan.zhihu.com/p/545601213)  
+  
+`sortedList`  
+`from sortedcontainers import SortedList`
