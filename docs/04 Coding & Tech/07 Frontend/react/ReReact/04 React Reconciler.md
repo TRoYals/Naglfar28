@@ -40,6 +40,17 @@ const vDom = {
 直接写 VDom 太麻烦了, 所以我们需要 [JSX](03%20React%20JSX转换) 来实现  
 ```<div>{item1}</div>``` 通过使用 jsx 来快速渲染的目的, 这个过程称为 `complier/reconciler`  
 简单来说就是 实际上 `reconciler` 很复杂, 因为他要实现一个能记录节点关系 的数据结果而不是 reactElement  
-`JSX`=>`compiler/reconciler`=>`Vdom`=>`redener`=>`Dom`  
+`JSX`=>(bible)=>`compiler/reconciler`=>`Vdom`=>`redener`=>`Dom`  
 因为要记录节点间的关系, 我们引入了 `FiberNode`(虚拟 Dom 在 React)
 
+### react 的 fiber 递归
+```		
+// 树结构
+this.return = null;
+this.sibling = null;
+this.child = null;
+this.index = 0;
+```
+[React技术揭秘双缓存](https://react.iamkasong.com/process/doubleBuffer.html#%E4%BB%80%E4%B9%88%E6%98%AF-%E5%8F%8C%E7%BC%93%E5%AD%98)
+
+啓旋
