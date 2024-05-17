@@ -57,7 +57,38 @@ content - padding - border - margin
 
 ## Flex 布局
 [Flex 布局教程：语法篇 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)  
- 
-
+  
+![](https://www.ruanyifeng.com/blogimg/asset/2015/bg2015071001.gif)  
+如何指定 flex 布局
+```css
+.box{
+  display: flex;
+行类元素: 
+  display:inline-flex;
+}
+```
+![image.png](https://oss.naglfar28.com/naglfar28/202405171816852.png)  
+容器的属性
+```css
+- flex-direction (决定主轴的方向): row|row-reverse|column|column-reverse;
+- flex-wrap (定义一条轴线排不下如何换行): nowrap(不换行)|wrap(换行,第一行在上)|wrap-reverse(换行,第一行在下);
+- flex-flow (flex-direction和flex-wrap的简写): <flex-direction>||<flex-wrap>
+- justify-content (定义了项目在主轴上的对齐方式): flex-start(左对齐)|flex-end(右对齐)|center(居中)|space-between(两端对齐,间隔相等)|space-a(每个项目两侧的间隔相等。所以，项目之间的间隔比项目与边框的间隔大一倍。)
+- align-items (定义项目在交叉轴上如何对齐): flex-start(交叉轴的起点对齐)|flex-end(交叉轴的终点对齐)|center(中点)|baseline(项目的第一行文字的基线对齐。)|stretch(默认值:如果项目未设置高度或设为auto，将占满整个容器的高度。)
+- align-content(定义多根轴线的对齐方式):flex-start|flex-end|center|space-between|space-around|strench:
+```
+![](https://oss.naglfar28.com/naglfar28/202405171822392.png)  
+![align-items 属性](https://oss.naglfar28.com/naglfar28/202405171825397.png)  
+![align-content属性](https://oss.naglfar28.com/naglfar28/202405171826622.png)
+#### 项目属性
+```css
+- `order`: <integer> 定义了具体盒子的顺序,数值越小越靠前, 默认为0.
+- `flex-grow`:<number> 默认定义项目放大的比例,默认为0.
+- `flex-shrink`:<number> 膜热缩小比例, 默认为1.
+- `flex-basis`: <length>|auto 默认为auto. 定义了在分配多余空间之前, 项目占据的主轴空间
+- `flex`: 是flex-grow, flex-shrink,和flex-basis的缩写, 默认值为 0 1 auto,优先使用这个属性而不是三个分别写
+- `align-self`: auto|flex-start|flex-end|center|baseline|stretch 同align-items
+```
+![](https://oss.naglfar28.com/naglfar28/202405172036523.png)s  
 
 

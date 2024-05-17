@@ -11,5 +11,5 @@ blog 系统:
 - Web([vuepress blog](vuepress%20blog))
 
 其他:
-- [Todoist](Todoist)(集成任务系统)
+- [Todoist](Todoist)(集成任务系统) pending, 该处存在改良空间
 - [anki](anki) (集成记忆功能)
