@@ -4,6 +4,7 @@ date: 2024-05-15
 article: false
 tag:
 
+
 ---
 
 source:  
@@ -49,11 +50,13 @@ https://codepen.io/TRoYals/pen/rNgVrYY
   
 content - padding - border - margin  
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4544d45b5a0c47a58c0c33a7d8fbac09~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp)  
-[盒模型 - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/The_box_model)
+[盒模型 - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/The_box_model)  
+
 
 ### position:inline 和 position:block 区别
   
-<https://codepen.io/TRoYals/pen/VwOLBdN>
+<https://codepen.io/TRoYals/pen/VwOLBdN>  
+
 
 ## Flex 布局
 [Flex 布局教程：语法篇 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)  
@@ -89,6 +92,84 @@ content - padding - border - margin
 - `flex`: 是flex-grow, flex-shrink,和flex-basis的缩写, 默认值为 0 1 auto,优先使用这个属性而不是三个分别写
 - `align-self`: auto|flex-start|flex-end|center|baseline|stretch 同align-items
 ```
-![](https://oss.naglfar28.com/naglfar28/202405172036523.png)s  
+![](https://oss.naglfar28.com/naglfar28/202405172036523.png)  
+
+
+[position的种类和relative与absolute的区别 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/panhonhang/note/1144259)  
+
+```
+1. position:absolute;   
+```
+生成绝对定位的元素，相对于 static 定位以外的第一个父元素进行定位。  
+元素的位置通过 "left", "top", "right" 以及 "bottom" 属性进行规定。  
+[您可以亲自试一试](http://www.w3school.com.cn/tiy/t.asp?f=csse_position_absolute)
+```
+2. position:fixed;  
+```
+生成绝对定位的元素，相对于浏览器窗口进行定位。  
+元素的位置通过 "left", "top", "right" 以及 "bottom" 属性进行规定。  
+[您可以亲自试一试](http://www.w3school.com.cn/tiy/t.asp?f=csse_position_fixed)
+```
+3. position:relative;   
+```
+生成相对定位的元素，相对于其正常位置进行定位。  
+比如 "top:100px" 会向元素的 TOP 位置添加 100 像素。而 "top:-100" 会向元素的 TOP 位置减少 100 像素。  
+[您可以亲自试一试](http://www.w3school.com.cn/tiy/t.asp?f=csse_position_relative)
+```
+4. position:static;
+```
+默认值。没有定位，元素出现在正常的流中（忽略 top, bottom, left, right 或者 z-index 声明）。如果没有设置则默认为 position:static。
+```
+ 5. position:inherit;
+```
+规定应该从父元素继承 position 属性的值。
+```
+6. z-index
+```
+优先级。默认的 z-index 是 0。如果要一个元素放置在另一个后面可以将它的 z-index 设置为负数，比如 "z-index:-1"。同理假如要一个元素放置在另一个的前面就将它的 z-index 设置为正数，比如 "z-index:1"。这是由于默认的 z-index 是 0。z-index 值越高优先级越高。  
+[详情参考W3School](http://www.w3school.com.cn/cssref/pr_class_position.asp)  
+relative 与 absolute 的区别
+```
+absolute是绝对定位；而relative是相对定位；
+```
+解释：  
+绝对定位就是相对于父元素的定位，不受父元素内其他子元素的影响；  
+而相对定位是相对于同级元素的定位，也就是上一个同级元素!  
+position:relative 相对定位。  
+relative 是相对定位，相对于本身的位置，元素的位置通过 "left", "top", "right" ，"bottom" 属性进行定位。left 是离原坐标 x 轴的距离，top 是离原坐标 y 轴的距离，它本身的位置还在。  
+absolute 是绝对定位，相对于窗口左上角的位置，元素的位置通过 "left", "top", "right" 以，"bottom" 属性进行定位。left 是离窗口左上角 x 轴的距离，top 是离窗口左上角标 y 轴的距离，不占有空间。  
+如果你有两个包含关系的 div，父 div 的样式是 position：relative，子 div 的样式是 position：absolute，那么子 div 的位置是相对于父的 div 的来进行定位的  
+
+
+[面试官：谈谈你对BFC的理解？ | web前端面试 - 面试官系列](https://vue3js.cn/interview/css/BFC.html#%E4%B8%89%E3%80%81%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF)  
+  
+**Block Formatting Context**  
+[前端人员不要只知道KFC，你应该了解 BFC、IFC、GFC 和 FFC - 前端南玖 - 博客园](https://www.cnblogs.com/songyao666/p/15975026.html)  
+在前端开发中，BFC（Block Formatting Context）是一个独立的布局环境，元素在该环境中按照特定的规则布局，不会影响外部元素，并且可以用来解决各种布局问题如清除浮动和避免重叠。
+- Box 垂直方向的距离由 margin 决定。属于同一个 BFC 的两个相邻 Box 的 margin 会发生重叠。  
+就是说, 同一个 CSS 布局下的元素,可能会出现 block 重叠!  
+这篇文章写的太好了, 给我看!!  
+[前端人员不要只知道KFC，你应该了解 BFC、IFC、GFC 和 FFC - 前端南玖 - 博客园](https://www.cnblogs.com/songyao666/p/15975026.html)  
+
+
+[面试官：什么是响应式设计？响应式设计的基本原理是什么？如何做？ | web前端面试 - 面试官系列](https://vue3js.cn/interview/css/responsive_layout.html#%E4%B8%80%E3%80%81%E6%98%AF%E4%BB%80%E4%B9%88)  
+ 
+```
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no”>
+```
+
+
+CSS 画三角  
+ 
+```
+.trang {
+height: 0;
+width: 0;
+border-left: 25px solid transparent;
+border-right: 25px solid transparent;
+border-top: 50px solid #C8A2C8;
+border-bottom: 50px solid #C8A2C8; 
+}
+```
 
 

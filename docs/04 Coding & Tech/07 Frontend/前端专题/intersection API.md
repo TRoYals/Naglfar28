@@ -3,6 +3,7 @@ title: intersection API
 date: 2024-05-17
 article: false
 tag:
+
 ---
 
 在被问及 [懒加载](懒加载) 和 [性能](性能) 和 [useRef](useRef) hooks 的问题可以说这个话题  
@@ -59,4 +60,5 @@ const LazyLoad = ({ children }) => {
 export default LazyLoad;
 ```
 这里用 `useRef` 可以很好的体现 react 性能优化的视角, 体现性能优化的特点.
+
 
