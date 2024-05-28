@@ -6,7 +6,7 @@ tags:
 
 ---
 
-[MySql 八股文](MySql%20八股文)
+[MySql 八股文](MySql%20八股文)  
 [sql组件库](sql组件库)
 ### Sql 日志
 redo log 和 bin log  
