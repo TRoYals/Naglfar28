@@ -173,3 +173,15 @@ border-bottom: 50px solid #C8A2C8;
 ```
 
 
+### [面试官：怎么理解回流跟重绘？什么场景下会触发？ | web前端面试 - 面试官系列](https://vue3js.cn/interview/css/layout_painting.html#%E4%B8%80%E3%80%81%E6%98%AF%E4%BB%80%E4%B9%88)
+  
+回流： 布局引擎根据各种样式计算每个盒子在页面的大小和位置  
+重绘： 当计算好盒模型的位置，大小及其他属性后，浏览器根据每个盒子的特性进行绘制。  
+![](https://static.vue-js.com/2b56a950-9cdc-11eb-ab90-d9ae814b240d.png)
+- 解析 HTML，生成 DOM 树，解析 CSS，生成 CSSOM 树
+- 将 DOM 树和 CSSOM 树结合，生成渲染树 (Render Tree)
+- Layout(回流): 根据生成的渲染树，进行回流 (Layout)，得到节点的几何信息（位置，大小）
+- Painting(重绘): 根据渲染树以及回流得到的几何信息，得到节点的绝对像素
+- Display: 将像素发送给 GPU，展示在页面上  
+触发回流一定会触发重绘
+

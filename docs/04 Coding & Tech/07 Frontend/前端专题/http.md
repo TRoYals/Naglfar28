@@ -1,0 +1,69 @@
+---
+title: http
+date: 2024-05-31
+article: false
+tag:
+---
+
+### 模板
+#carad
+- 关键词
+- 简要描述
+- 坑点
+
+### [面试官：什么是HTTP? HTTP 和 HTTPS 的区别? | web前端面试 - 面试官系列](https://vue3js.cn/interview/http/HTTP_HTTPS.html#%E4%B8%80%E3%80%81http)
+
+- 关键词: 安全，http 使用 SSL/TLS 进行加密处理**，默认端口（80/443）**，性能
+- http: 无连接，无状态
+- https: 使用对称加密 + 非对称加密，也就是混合加密  
+![image.png](https://oss.naglfar28.com/naglfar28/202405310838947.png)
+
+### [面试官：为什么说HTTPS比HTTP安全? HTTPS是如何保证安全的？ | web前端面试 - 面试官系列](https://vue3js.cn/interview/http/HTTPS.html#%E4%B8%80%E3%80%81%E5%AE%89%E5%85%A8%E7%89%B9%E6%80%A7)
+
+- 关键词： 混合加密， 摘要算法确保数据没有被篡改，  
+HTTPS 连接建立过程
+1. **客户端请求 HTTPS 连接**：
+	- 客户端（浏览器）向服务器发送 HTTPS 连接请求。
+2. **服务器返回证书**：
+	- 服务器返回包含公钥的数字证书。
+3. **客户端验证证书**：
+	- 客户端验证服务器的证书是否合法。如果证书可信，客户端生成一个随机的对称密钥。
+4. **客户端加密对称密钥**：	
+	- 客户端使用服务器的公钥对对称密钥进行加密，并将加密后的对称密钥发送给服务器。
+5. **服务器解密对称密钥**
+	- 服务器使用自己的私钥解密客户端发送的对称密钥。
+6. **使用对称密钥加密通信**：
+	- 客户端和服务器都拥有相同的对称密钥，之后的通信使用对称加密进行，加密和解密速度更快。
+
+TCP 和 UDP 的使用场景  
+  
+![image.png](https://oss.naglfar28.com/naglfar28/202405310851609.png)  
+![](https://static.vue-js.com/b6cdd800-b393-11eb-ab90-d9ae814b240d.png)
+
+### [面试官：如何理解CDN？说说实现原理？ | web前端面试 - 面试官系列](https://vue3js.cn/interview/http/CDN.html#%E4%B8%80%E3%80%81%E6%98%AF%E4%BB%80%E4%B9%88)
+  
+关键词： 边缘节点，  
+原理分析：  
+无 CDN： 用户提交域名→浏览器对域名进行解释→`DNS` 解析得到目的主机的 IP 地址→根据 IP 地址访问发出请求→得到请求数据并回复  
+应用 `CDN` 后，`DNS` 返回的不再是 `IP` 地址，而是一个 `CNAME`(Canonical Name) 别名记录，指向 `CDN` 的全局负载均衡，这个负载均衡根据访问者信息来进行调度到 CDN 服务器上。
+
+[面试官：说说 HTTP1.0/1.1/2.0 的区别? | web前端面试 - 面试官系列](https://vue3js.cn/interview/http/1.0_1.1_2.0.html#%E4%B8%80%E3%80%81http1-0)  
+  
+http1.0: 一次传输一个文件  
+http1.1: 可以在一个 tcp 链接上传多个 http 请求 但是同一个 TCP 连接里面，所有的数据通信是按次序进行的，服务器只有处理完一个请求，才会接着处理下一个请求。如果前面的处理特别慢，后面就会有许多请求排队等着  
+http2.0: 完全多路复用，而非有序并阻塞的、只需一个连接即可实现并行
+
+### [面试官：说说 HTTP 常见的请求头有哪些? 作用？ | web前端面试 - 面试官系列](https://vue3js.cn/interview/http/headers.html#%E4%B8%80%E3%80%81%E6%98%AF%E4%BB%80%E4%B9%88)
+  
+Cache-Control 控制缓存时间
+
+### [面试官：说说地址栏输入 URL 敲下回车后发生了什么? | web前端面试 - 面试官系列](https://vue3js.cn/interview/http/after_url.html#%E4%B8%80%E3%80%81%E7%AE%80%E5%8D%95%E5%88%86%E6%9E%90)
+ 
+- URL 解析
+- DNS 查询
+- TCP 连接
+- HTTP 请求
+- 响应请求
+- 页面渲染
+
+
