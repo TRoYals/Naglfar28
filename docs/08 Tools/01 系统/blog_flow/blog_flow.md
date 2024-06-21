@@ -13,3 +13,5 @@ blog 系统:
 其他:
 - [Todoist](Todoist)(集成任务系统) pending, 该处存在改良空间 可能的替代 [02 Omnifoucs](../02%20Omnifoucs)
 - [anki](anki) (集成记忆功能)
+
+[2024-06-18](2024-06-18) 更新了 daily template 模板。
