@@ -102,3 +102,11 @@ export const jsx = (type: ElementType, config: any, ...maybeChildren: any) => {
 	return ReactElement(type, key, ref, props);
 };
 ```
+
+### 各节点类型
+- JSX
+- React Element
+- Fiber Node
+- DOM Element
+
+

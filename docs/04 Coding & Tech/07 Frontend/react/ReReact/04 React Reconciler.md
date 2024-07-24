@@ -51,6 +51,13 @@ this.sibling = null;
 this.child = null;
 this.index = 0;
 ```
+
+## FiberNode 属性
+### WorkTag
+[Fiber Node 属性](https://github.com/TRoYals/reReact/blob/5f8f7afc6309080276903e86d2eeddbe496c3fa3/packages/react-reconciler/src/workTags.ts#L45)
+
+## reconciler 的工作方式
+![image.png](https://oss.naglfar28.com/naglfar28/202407231000520.png)  
+[reReact 缓存树](https://github.com/TRoYals/reReact/blob/f9602d0936fcd2d021f374bef943752ca39e9a37/packages/react-reconciler/src/fiber.ts#L27)  
 [React技术揭秘双缓存](https://react.iamkasong.com/process/doubleBuffer.html#%E4%BB%80%E4%B9%88%E6%98%AF-%E5%8F%8C%E7%BC%93%E5%AD%98)
 
-啓旋
