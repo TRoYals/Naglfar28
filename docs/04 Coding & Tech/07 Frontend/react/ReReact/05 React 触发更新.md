@@ -132,3 +132,6 @@ title: HostRootNode
    }
    ```
 
+## 更新 WIP 相关
+如何从 fiberRootNode 开始替换双缓存树  
+[createWorkingInProgress](https://github.com/TRoYals/reReact/blob/56bf47c52537a6bea4a4e59954ac2da30efdf03c/packages/react-reconciler/src/fiber.ts#L79) 
