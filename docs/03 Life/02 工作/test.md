@@ -20,7 +20,9 @@ tag:
 五发电厂（华能、国电投、大唐、国能源、华电）
 
 六大国有行（工行、中行、建行、农行、交行、邮政银行）
-
+-2011346943
 作者：赛文 X  
 链接：[https://www.nowcoder.com/discuss/621758002369970176?sourceSSR=subject](https://www.nowcoder.com/discuss/621758002369970176?sourceSSR=subject)  
 来源：牛客网
+
+![image.png](https://oss.naglfar28.com/naglfar28/202408111828195.png)
