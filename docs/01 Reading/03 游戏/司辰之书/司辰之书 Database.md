@@ -1,16 +1,20 @@
 ---
-title: 司辰之书
+title: 司辰之书Database
 date: 2024-09-21
 article: false
 tag:
 ---
+
+## Database
+
+![image.png](https://oss.naglfar28.com/naglfar28/202410060936854.png)
 
 ![Pasted image 20240921104517.png](https://oss.naglfar28.com/naglfar28/202410060003887.png)
 
 ## Assistance
 Smith 2edge 2forge  
 Mrs Killie 2grill 1heart  
-Mr Killie: 2winter 1sky **woo ad**  
+Mr Killie: 2winter 1sky **wood**   
 Rector: 2latern 1knock  
 Miner's assistance 1forge 1moon 2scale 
 
@@ -29,7 +33,7 @@ Miner's assistance 1forge 1moon 2scale
  5heart: Begensburg Balm: 2heart 2nectar **liquid**
 ### Desk Reading Room: heart sky lantern moon
 ### Kitchen Range: Servants: Scale Heart Nectar Grill
-### Alchemist's Glassware : Winter Lantern Grill Forge
+### Alchemist's Glassware: Winter Lantern Grill Forge
 
 ## Object
 #### consider
@@ -38,11 +42,9 @@ lunarGlobe->*Memory Touch*:1Forge
 awakened feather-> *Memory cheerful Ditty*: 2heart 1sky **music**
 
 ### Creature
-Regensburg Balm: 2heart 2nectar **liquid** (By 5heart)
-Labhtic tincture ： 2edge 1latern **material** (By 5edge)
-bitterblack salt: 1forge **material** **pigment**  (By 5forge)
-
-
+Regensburg Balm: 2heart 2nectar **liquid** (By 5heart)  
+Labhtic tincture ： 2edge 1latern **material** (By 5edge)  
+bitterblack salt: 1forge **material** **pigment** (By 5forge)
 
 ## Tool  
 ### Mirrorscope: 1latern
@@ -65,3 +67,11 @@ OWICBS: (on what is contained by Silver): 3$ 6sky Greek Baronial Period
 Milk: 1winter 1grill 1heart 1scale **liquid** **cookingIngre** **Sustenance** **restoretive
 
 o
+
+## 推荐攻略
+
+![image.png](https://oss.naglfar28.com/naglfar28/202410060941140.png)
+
+![image.png](https://oss.naglfar28.com/naglfar28/202410060937616.png)
+
+![image.png](https://oss.naglfar28.com/naglfar28/202410061001886.png)
