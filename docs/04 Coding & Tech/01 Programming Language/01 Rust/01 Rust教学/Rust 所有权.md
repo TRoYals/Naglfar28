@@ -3,7 +3,7 @@ title: Rust 所有权相关
 date: 2023-10-12 17:04
 article: false
 tags:
-cards-deck: 04 Coding & Tech::01 Programming Language::01 Rust::01 Rust教学
+
 ---
 
 ## Rust 所有权规则  

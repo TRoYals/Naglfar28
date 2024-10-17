@@ -9,5 +9,8 @@ tags: topic
 [02Decorators](02Decorators)  
 [03异步编程](03异步编程)  
 [04Python Type](04Python%20Type)  
-[05PEP规范](05PEP规范)
-
+[05PEP规范](05PEP规范)  
+[06 Python yield 用法](06%20Python%20yield%20用法)  
+[Python多线程](Python多线程)  
+[07 python index相关](07%20python%20index相关)  
+[08 python zip相关](08%20python%20zip相关)

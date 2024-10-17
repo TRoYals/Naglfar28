@@ -11,7 +11,7 @@ explain
 ```
 
 主要是根据官方文档来的
-
+<!-- more -->
 ## modules
 
 ### llms
@@ -107,7 +107,7 @@ parser.parse(" blue\n") #<Colors.BLUE: 'blue'>
 parser.parse("yellow") #报错
 ```
 
-感觉没什么用啊...
+感觉没什么用啊... 
 
 ##### PydanticOutputParser()
 

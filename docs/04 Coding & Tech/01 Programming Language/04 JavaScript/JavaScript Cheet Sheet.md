@@ -3,7 +3,7 @@ title: JavaScript Cheet Sheet
 date: 2024-02-07 16:30
 article: false
 tags: 
-cards-deck: 04 Coding & Tech::01 Programming Language::04 JavaScript
+
 ---
 
 ## 字符串操作
@@ -62,3 +62,10 @@ forEach 中的 return 只会退出当前步骤!!!!,
 Array.from(str).forEach(char => console.log(char));
 [...str].forEach(char => console.log(char));
 ```
+
+## 排序
+`[].sort((a,b)=>a-b)` 尤其是数字比大小特别要注意!!
+
+## 求和
+`[].reduce((a,b)=>a+b,0)`
+

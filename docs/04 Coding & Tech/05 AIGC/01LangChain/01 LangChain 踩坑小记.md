@@ -5,6 +5,7 @@ article: true
 ---
 
 ## 记录 LangChain 吃过的坑.
+<!-- more -->
 ### prompt 相关
 #### "f-string"
 

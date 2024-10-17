@@ -8,7 +8,7 @@ tags:
 QUIZ2
 <https://chatkit.app/s/KiD8zlzNHU-OtoHMXmRBf>
 
-<https://chatkit.app/s/BH2lXyD5Up_mhbt001EUd>
+<https://chatkit.app/s/BH2lXyD5Up_mhbt001EUd> 
 
 1. You purchased 100 shares of stock at a price of $42 per share. Over the last year, you have received a total dividend income of $122. The current price is $48. What is the dividend yield? 1. A. 2.9% 2. B. 2.5% 3. C. 14.3% 4. D. None of the choices are correct.  
      

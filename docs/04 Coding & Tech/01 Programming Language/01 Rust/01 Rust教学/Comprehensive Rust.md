@@ -3,7 +3,7 @@ title: Comprehensive Rust
 date: 2023-11-07 15:38
 article: false
 tags: 
-cards-deck: 04 Coding & Tech::01 Programming Language::01 Rust::01 Rust教学
+
 ---
 
 # Day1

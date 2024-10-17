@@ -17,3 +17,11 @@ Todoist 的使用方法和 obsidian 结合的话使用的是 [这个](https://ja
 1. filter:"today|overdue"
 2. filter:"due before: next week"
 3. completed in last week 这个目前不支持
+
+[2024-06-03](2024-06-03)  
+因为 todoist 的 mac 端频繁更新， 每次使用都很令人难受。决定弃用 todoist， 改为使用 [02 Omnifoucs](02%20Omnifoucs)， 虽然很折腾，但是看了我的这个 [三分热度](../../03%20Life/04%20投资/FFIE.md#)， 感觉也能接受每次改变。  
+这次让我重新选择 omni 的理由如下：
+1. 我买过
+2. UIUIUI， omni 的扁平化 ui 其实蛮符合我的 taste 的
+3. 本地化， 拥抱本地化  
+使用了现在的 blog 流的目录结构

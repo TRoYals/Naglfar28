@@ -9,7 +9,6 @@ tags: books
 
 *超越不可能* 读书笔记 
 <!-- more -->
-
 ![](http://oss.naglfar28.com/naglfar28/202401081443619.png)
 
 如果对这本书感兴趣的话, 请务必确保 读的是英文原版的, 很多词汇无法被中文准确的表达出 (尤其是术语).
@@ -72,6 +71,9 @@ Flow  may  be  the  biggest  neurochemical  cocktail  of  all.  The  state appea
 通过使用 " 宏大变革目标 " 增加自己的使命感.
 
 #### 心流触发器
+
+
+
 > 这个作者的写作技巧有够烂的, 看的我喳喳呼呼的...
 
 不要为自己的失败找借口, 继续回来看!
