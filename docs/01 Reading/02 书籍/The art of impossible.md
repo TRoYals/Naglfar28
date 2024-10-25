@@ -5,6 +5,7 @@ end: 2024-01-15
 date: 2024-01-05
 article: true
 tags: books
+author: Steven Kotler
 ---
 
 *超越不可能* 读书笔记 
@@ -414,6 +415,9 @@ insula catches attention, anterior cingulate turned salience into an error signa
 > But creative brains don’t have this tendency. Their repetition suppression reflex isn’t on the job. What this translates to in the real world is the ability to notice the new in the old.
 
 ### 如何训练 creativity
+
+
+
 Hacking Creativity=> “figuring out how to get your neurobiology to work for you rather than against you."
 
 #### Step1: Befriend your ACC
