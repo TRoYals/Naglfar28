@@ -429,7 +429,7 @@ Remote association problems: (远程联想问题)
 给定三个词 — "star"（星星）, "blue"（蓝色）, "house"（房子）。你的任务是找到一个与这三个词都能形成某种联系的第四个词。  
 我的第一答案 (1s 内):earth  
 因为 earth 同时拥有以上的三个属性  
-后来想到了一个答案 - light, 因为三者同时可以与之产生联系. 注意两个答案的不同之处. 一个是聚焦的, earth 同时有三个属性, 一个是发散的,三者都能与 light 产生联系.
+后来想到了一个答案 - light, 因为三者同时可以与之产生联系. 注意两个答案的不同之处. 一个是聚焦的, earth 同时有三个属性, 一个是发散的,三者都能与 light 产生联系. 
 
 the ACC lights up when we are considering those off-the-wall ideas.
 > 当我们在做一些有趣的事情的时候,ACC 会由默认模式切换到 executive attention network.
