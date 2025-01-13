@@ -13,6 +13,8 @@ blog 系统:
 其他:
 - [Todoist](Todoist)(集成任务系统) pending, 该处存在改良空间 可能的替代 [02 Omnifoucs](../02%20Omnifoucs)
 - [anki](anki) (集成记忆功能)
+- [03 PicGo](../../06%20工具/03%20PicGo) 使用OSS放blog的图片
+
 
 [2024-06-18](2024-06-18) 更新了 daily template 模板。  
 [2024-10-17](2024-10-17) 更新了整个 notes.git 的结构，现在只有在 [sync-settings](../../../sync-settings) 才会更新到 Web 上。  
