@@ -12,7 +12,7 @@ blog 系统:
 
 其他:
 - [Todoist](Todoist)(集成任务系统) pending, 该处存在改良空间 可能的替代 [02 Omnifoucs](../02%20Omnifoucs)
-- [anki](anki) (集成记忆功能)
+- [../../06 工具/anki](../../06%20工具/anki) (集成记忆功能)
 - [03 PicGo](../../06%20工具/03%20PicGo) 使用OSS放blog的图片
 
 
