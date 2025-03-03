@@ -22,6 +22,17 @@ tags:
 ![](https://oss.naglfar28.com/naglfar28/202503031903165.png)
 
 
+![](https://oss.naglfar28.com/naglfar28/202503031931318.png)
+
+![](https://oss.naglfar28.com/naglfar28/202503031938000.png)
+
+![](https://oss.naglfar28.com/naglfar28/202503031939096.png)
+
+
+## 第六章：窗外，在雨夜中
+![](https://oss.naglfar28.com/naglfar28/202503031944039.png)
+
+
 
 ---
 ## 情节
