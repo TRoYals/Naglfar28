@@ -116,4 +116,5 @@ emm
 ## 第七章：声、今はとどかなくても
 
 ![](https://oss.naglfar28.com/naglfar28/202503061152364.png)
+![](https://oss.naglfar28.com/naglfar28/202503061352891.png)
 
