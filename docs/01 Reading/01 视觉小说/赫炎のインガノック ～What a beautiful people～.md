@@ -94,7 +94,6 @@ emm
 ## 第三章：音、奏でればきっと
 ![](https://oss.naglfar28.com/naglfar28/202503061025761.png)
 
-
 ## 第四章： 鏡、何も映らなくても
 ![](https://oss.naglfar28.com/naglfar28/202503061029195.png)
 
@@ -115,7 +114,9 @@ emm
 
 ## 第七章：声、今はとどかなくても
 
-![](https://oss.naglfar28.com/naglfar28/202503061152364.png)
+![](https://oss.naglfar28.com/naglfar28/202503061152364.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503061352891.png)
 
 ![](https://oss.naglfar28.com/naglfar28/202503070032649.png)
+
+### 第 8 章： 死、幕間から声がする」
