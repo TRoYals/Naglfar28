@@ -119,4 +119,8 @@ emm
 
 ![](https://oss.naglfar28.com/naglfar28/202503070032649.png)
 
-### 第 8 章： 死、幕間から声がする」
+### 第 8 章： 死、幕間から声がする
+
+![](https://oss.naglfar28.com/naglfar28/202503091512083.png)
+?
+![](https://oss.naglfar28.com/naglfar28/202503091518807.png)
