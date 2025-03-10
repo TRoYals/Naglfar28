@@ -100,6 +100,7 @@ emm
 ## 第五章：当下, 泪已成灰　　今、あなたの戻はここに
 
 ![くろぎぬの子](https://oss.naglfar28.com/naglfar28/202503031721681.png)
+![](https://oss.naglfar28.com/naglfar28/202503101104218.png)
 
 ![](https://oss.naglfar28.com/naglfar28/202503031903165.png)
 
@@ -119,15 +120,21 @@ emm
 
 ![](https://oss.naglfar28.com/naglfar28/202503070032649.png)
 
-### 第 8 章： 死、幕間から声がする
-
+### 第 8 章： 死、幕間から声がする 死亡，幕间其声
+ 
 ![](https://oss.naglfar28.com/naglfar28/202503091512083.png)  
 ?  
 ![](https://oss.naglfar28.com/naglfar28/202503091518807.png)
 
-有股偷感，等等，
+有股偷感，等等，这不就是 Rape 吗/？？ 能将这描写的如此文艺，樱井光还是有实力的呀
 
 ![](https://oss.naglfar28.com/naglfar28/202503091538932.png)
 
-![](https://oss.naglfar28.com/naglfar28/202503091544292.png)
+![](https://oss.naglfar28.com/naglfar28/202503091544292.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503091822140.png)
+
+### 第9章： 花朵，辉光一物
+新衣服！
+![](https://oss.naglfar28.com/naglfar28/202503101109811.png)
+![](https://oss.naglfar28.com/naglfar28/202503101112156.png)
+![](https://oss.naglfar28.com/naglfar28/202503101125746.png)
