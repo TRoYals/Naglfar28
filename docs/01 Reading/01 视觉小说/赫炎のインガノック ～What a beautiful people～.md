@@ -138,3 +138,7 @@ emm
 ![](https://oss.naglfar28.com/naglfar28/202503101109811.png)
 ![](https://oss.naglfar28.com/naglfar28/202503101112156.png)
 ![](https://oss.naglfar28.com/naglfar28/202503101125746.png)
+![](https://oss.naglfar28.com/naglfar28/202503101330221.png)
+![](https://oss.naglfar28.com/naglfar28/202503101332217.png)
+
+## 第10章：花朵，待其绽放
