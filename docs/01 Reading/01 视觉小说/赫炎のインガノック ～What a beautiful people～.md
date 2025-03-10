@@ -99,7 +99,7 @@ emm
 
 ## 第五章：当下, 泪已成灰　　今、あなたの戻はここに
 
-![くろぎぬの子](https://oss.naglfar28.com/naglfar28/202503031721681.png)
+![くろぎぬの子](https://oss.naglfar28.com/naglfar28/202503031721681.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503101104218.png)
 
 ![](https://oss.naglfar28.com/naglfar28/202503031903165.png)
@@ -133,26 +133,34 @@ emm
 ![](https://oss.naglfar28.com/naglfar28/202503091544292.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503091822140.png)
 
-### 第9章： 花朵，辉光一物
-新衣服！
-![](https://oss.naglfar28.com/naglfar28/202503101109811.png)
-![](https://oss.naglfar28.com/naglfar28/202503101112156.png)
-![](https://oss.naglfar28.com/naglfar28/202503101125746.png)
-![](https://oss.naglfar28.com/naglfar28/202503101330221.png)
+### 第 9 章： 花朵，辉光一物
+新衣服！  
+![](https://oss.naglfar28.com/naglfar28/202503101109811.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101112156.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101125746.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101330221.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503101332217.png)
 
-## 第10章：花朵，待其绽放
-![](https://oss.naglfar28.com/naglfar28/202503101338071.png)
-![](https://oss.naglfar28.com/naglfar28/202503101343848.png)
-![](https://oss.naglfar28.com/naglfar28/202503101352208.png)
-![../../attachments/Pasted image 20250310135813.png](../../attachments/Pasted%20image%2020250310135813.png)![](https://oss.naglfar28.com/naglfar28/202503101502023.png)
+## 第 10 章：花朵，待其绽放
+![](https://oss.naglfar28.com/naglfar28/202503101338071.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101343848.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101352208.png)  
+![../../attachments/Pasted image 20250310135813.png](../../attachments/Pasted%20image%2020250310135813.png)![](https://oss.naglfar28.com/naglfar28/202503101502023.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503101504669.png)
 
-## 第11章：我心，何处可循
-![](https://oss.naglfar28.com/naglfar28/202503101555874.png)
-![](https://oss.naglfar28.com/naglfar28/202503101612582.png)
-![](https://oss.naglfar28.com/naglfar28/202503101637141.png)
-![](https://oss.naglfar28.com/naglfar28/202503101652408.png)
-? 给我玩晕了，有点折磨
-![](https://oss.naglfar28.com/naglfar28/202503101655937.png)
+## 第 11 章：我心，何处可循
+![](https://oss.naglfar28.com/naglfar28/202503101555874.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101612582.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101637141.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101652408.png)  
+? 给我玩晕了，有点折磨  
+![](https://oss.naglfar28.com/naglfar28/202503101655937.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503101656200.png)
+
+## 第 12 章：赫炎的印加诺克
+意满离  
+![](https://oss.naglfar28.com/naglfar28/202503101729120.png)
+
+?
+![](https://oss.naglfar28.com/naglfar28/202503101732530.png)
+![](https://oss.naglfar28.com/naglfar28/202503101733197.png)
