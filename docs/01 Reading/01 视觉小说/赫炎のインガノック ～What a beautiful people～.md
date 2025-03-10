@@ -147,3 +147,6 @@ emm
 ![](https://oss.naglfar28.com/naglfar28/202503101352208.png)
 ![../../attachments/Pasted image 20250310135813.png](../../attachments/Pasted%20image%2020250310135813.png)![](https://oss.naglfar28.com/naglfar28/202503101502023.png)
 ![](https://oss.naglfar28.com/naglfar28/202503101504669.png)
+
+## 第11章：我心，何处可循
+![](https://oss.naglfar28.com/naglfar28/202503101555874.png)
