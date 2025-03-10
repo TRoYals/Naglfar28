@@ -159,8 +159,20 @@ emm
 
 ## 第 12 章：赫炎的印加诺克
 意满离  
+
+这一章 提娅的 长独白，应该是独一无二的体验了。  
 ![](https://oss.naglfar28.com/naglfar28/202503101729120.png)
 
-?
-![](https://oss.naglfar28.com/naglfar28/202503101732530.png)
-![](https://oss.naglfar28.com/naglfar28/202503101733197.png)
+?  
+![](https://oss.naglfar28.com/naglfar28/202503101732530.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101733197.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101739767.png)  
+?  
+![](https://oss.naglfar28.com/naglfar28/202503101742988.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101751737.png)  
+![](https://oss.naglfar28.com/naglfar28/202503101752157.png)
+![](https://oss.naglfar28.com/naglfar28/202503101758463.png)
+![](https://oss.naglfar28.com/naglfar28/202503101758113.png)
+![](https://oss.naglfar28.com/naglfar28/202503101758342.png)
+![](https://oss.naglfar28.com/naglfar28/202503101801176.png)
+
