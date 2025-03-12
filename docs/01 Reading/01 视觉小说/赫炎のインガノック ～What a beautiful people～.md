@@ -164,7 +164,7 @@ emm
 ![](https://oss.naglfar28.com/naglfar28/202503101729120.png)
 
 ?  
-![](https://oss.naglfar28.com/naglfar28/202503101732530.png)  
+![]()  
 ![](https://oss.naglfar28.com/naglfar28/202503101733197.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503101739767.png)  
 ?  
