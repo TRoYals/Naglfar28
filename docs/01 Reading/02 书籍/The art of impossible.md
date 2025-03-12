@@ -184,8 +184,6 @@ emmm, 有时间可以看看 This is water. 但不是现在.
 
 #### Mindfulness(正念练习)
 
-
-
 为什么要正念 A: To control the **GAP**  
 为了控制一个念头和大脑赋予这个念头情绪的这个短暂时刻进行干预. (这个短暂的时刻作者成为 GAP)
 
@@ -415,8 +413,6 @@ insula catches attention, anterior cingulate turned salience into an error signa
 > But creative brains don’t have this tendency. Their repetition suppression reflex isn’t on the job. What this translates to in the real world is the ability to notice the new in the old.
 
 ### 如何训练 creativity
-
-
 
 Hacking Creativity=> “figuring out how to get your neurobiology to work for you rather than against you."
 
