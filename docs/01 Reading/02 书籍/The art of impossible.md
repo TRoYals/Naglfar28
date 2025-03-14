@@ -4,7 +4,7 @@ start: 2024-01-05
 end: 2024-01-15
 date: 2024-01-05
 article: true
-tags: 
+tag: 
  - books
 author: Steven Kotler
 ---

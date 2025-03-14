@@ -3,7 +3,7 @@ title: symphonic rain
 start: 2022-05-05
 article: false
 excerpt: 心之雨
-tags:
+tag:
  - game
 ---
 

@@ -2,7 +2,7 @@
 title: Heaven Burns Red Song
 date: 2024-02-04 22:09
 article: false
-tags: 
+tag: 
 ---
 
 我武者羅に踏ん張れ　我武者羅に遮二無二  
