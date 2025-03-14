@@ -2,8 +2,6 @@
 title: REMINISCENCES OF A STOCK OPERATOR
 date: 2024-05-10
 article: false
-tag:
-- book
 ---
 
 ::: info
