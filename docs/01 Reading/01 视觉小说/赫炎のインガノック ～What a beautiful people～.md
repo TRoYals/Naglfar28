@@ -123,7 +123,7 @@ emm
 
 ![](https://oss.naglfar28.com/naglfar28/202503070032649.png)
 
-### 第 8 章： 死、幕間から声がする 死亡，幕间其声
+## 第 8 章： 死、幕間から声がする 死亡，幕间其声
  
 ![](https://oss.naglfar28.com/naglfar28/202503091512083.png)  
 ?  
@@ -136,7 +136,7 @@ emm
 ![](https://oss.naglfar28.com/naglfar28/202503091544292.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503091822140.png)
 
-### 第 9 章： 花朵，辉光一物
+## 第 9 章： 花朵，辉光一物
 新衣服！  
 ![](https://oss.naglfar28.com/naglfar28/202503101109811.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503101112156.png)  
