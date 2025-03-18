@@ -12,6 +12,8 @@ tags:
 准备推日文原版 (因为骗子社的原文文笔太好了, 而且是全语言有旁白, 感觉还是很适合的)  
 主要是些平假名不太熟, 为了防止忘记, 写这篇 blog 做记录
 
+20250318 把部分图片更新为 steam hd 版本的
+
 ## 第一章：空、太陽がふたつある
 こぼれ落ちていく 命たちは無数に。 掬い上げられるのは、僅かな一部。
 
@@ -93,6 +95,7 @@ emm
 
 ## 第三章：音、奏でればきっと
 ![](https://oss.naglfar28.com/naglfar28/202503061025761.png)
+![Uploading file...rkms5]()
 
 ## 第四章： 鏡、何も映らなくても
 ![](https://oss.naglfar28.com/naglfar28/202503061029195.png)
@@ -184,3 +187,4 @@ emm
 ![](https://oss.naglfar28.com/naglfar28/202503101818126.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503101818511.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503101822187.png)
+
