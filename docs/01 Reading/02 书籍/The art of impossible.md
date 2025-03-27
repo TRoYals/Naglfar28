@@ -449,7 +449,7 @@ Mindfulness. gives the ACC more time to consider those alternative, far-flung po
 Exercise. 锻炼降低了压力水平，将皮质醇从我们的体系中清除，同时增加了让人感觉良好的神经化学物质.  
 Plus, the time-out from normal life that exercise provides works as an incubation period, the second stage of Poincaré’s creative cycle.  
 [Poincare’s Creativity. The scientist does not study nature… | by Vladimir Kuzmenkov | Medium](https://medium.com/@vovakuzmenkov/poincares-creativity-8e31d5031529)
-> 这里提到了 Poincaré’s creative cycle, 我在网上查找后发现了这个和 [禅和摩托车维修技术](禅和摩托车维修技术) 有关,而这本书就是我计划中读的下本书 (我的 acc 已经察觉到了这些,已经在 fire on all cylidenrs)
+> 这里提到了 Poincaré’s creative cycle, 我在网上查找后发现了这个和 [禅和摩托车维修艺术](禅和摩托车维修艺术) 有关,而这本书就是我计划中读的下本书 (我的 acc 已经察觉到了这些,已经在 fire on all cylidenrs)
 
 Sleep. 最重要的. 不解释了.
 
