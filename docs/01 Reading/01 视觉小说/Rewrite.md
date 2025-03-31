@@ -1951,8 +1951,13 @@ Terra线BAD END回收结束
 
 
 ## 路线
+### 小鸟
+![](https://oss.naglfar28.com/naglfar28/202503311009773.png)
+
 ### 凰
 ### 静流
 ![](https://oss.naglfar28.com/naglfar28/202503310937200.png)
 
 ![](https://oss.naglfar28.com/naglfar28/202503310941425.png)
+
+### 露西娅线
