@@ -1959,6 +1959,8 @@ Terra线BAD END回收结束
 ### 小鸟
 ![](https://oss.naglfar28.com/naglfar28/202503311009773.png)
 ![](https://oss.naglfar28.com/naglfar28/202504010050819.png)
+![](https://oss.naglfar28.com/naglfar28/202504011114733.png)
+![](https://oss.naglfar28.com/naglfar28/202504011120675.png)
 
 ### 千早
 ![](https://oss.naglfar28.com/naglfar28/202503311039062.png)
