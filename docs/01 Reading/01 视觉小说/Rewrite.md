@@ -1983,6 +1983,7 @@ Terra线BAD END回收结束
 
 ### 露西娅线
 ![](https://oss.naglfar28.com/naglfar28/202504010043392.png)
+![](https://oss.naglfar28.com/naglfar28/202504031124071.png)
 
 ###  朱音
 ![](https://oss.naglfar28.com/naglfar28/202503311054611.png)
