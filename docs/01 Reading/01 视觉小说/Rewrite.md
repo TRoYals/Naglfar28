@@ -1962,6 +1962,7 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202504011114733.png)
 ![](https://oss.naglfar28.com/naglfar28/202504011120675.png)
 ![](https://oss.naglfar28.com/naglfar28/202504011355479.png)
+![](https://oss.naglfar28.com/naglfar28/202504051155220.png)
 
 ### 千早
 ![](https://oss.naglfar28.com/naglfar28/202503311039062.png)
@@ -1991,3 +1992,4 @@ Terra线BAD END回收结束
 
 ![](https://oss.naglfar28.com/naglfar28/202504010023902.png)
 
+![](https://oss.naglfar28.com/naglfar28/202504051139828.png)
