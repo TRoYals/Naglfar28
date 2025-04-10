@@ -169,7 +169,7 @@ Passion
 
 #### The grit to control your thoughts
 
-[This Is Water - Wikipedia](https://en.wikipedia.org/wiki/This_Is_Water)
+[This Is Water - Wikipedia](https://en.wikipedia.org/wiki/This_Is_Water) 
 
 > And I submit that this is what the real, no bullshit value of your liberal arts education is supposed to be about: how to keep from going through your comfortable, prosperous, respectable adult life dead, unconscious, a slave to your head and to your natural default setting of being uniquely, completely, imperially alone day in and day out. That may sound like hyperbole, or abstract nonsense. Let’s get concrete. . .
 
