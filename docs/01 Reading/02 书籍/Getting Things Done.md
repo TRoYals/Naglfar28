@@ -42,3 +42,9 @@ Vertical control, in contrast, manages thinking, development, and coordination o
 
 We (1) capture what has our attention; (2) clarify what each item means and what to do about it; (3) organize the results, which presents the options we (4) reflect on, which we then choose to (5) engage with. This constitutes the management of the horizontal aspect of our lives, incorporating everything that we need to consider at any time, as we move forward moment to moment.
 :::
+
+20250417
+::: info
+
+最近在尝试使用GTD，整体感觉下来并没有使用的很好，主要是还是做不好工作相关的事情。
+:::
