@@ -23,6 +23,28 @@ let a = Array.from({length:26},(x,_)=>0)//
 let a = Array.from({length:26},(x,index)=>index)//构造一个0-25数组
 ```
 
+看二维数组中是否存在指定一维数组
+```js
+function arrayEaqual(arr1,arr2){
+	if(arr1.length !== arr2.length){
+		return false;
+	}
+	for (let i = 0; i < arr1.length; i++){
+		if(arr1[i] !== arr2[i]) return false;
+	}
+	function containsArray(arr2D,arr1){
+		return arr2D.some(item => arrayEaqual(item, arr1));
+	}
+}
+```
+
+```js
+function containsArray(arr2D, arr1D) {
+    const targetStr = JSON.stringify(arr1D);
+    return arr2D.some(item => JSON.stringify(item) === targetStr);
+}
+```
+
 ## 字典操作
 字典和数组结合 (如何给字典 index 属性)   
 看这道 mid-451, 我觉得很合适 
