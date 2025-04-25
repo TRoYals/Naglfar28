@@ -23,6 +23,7 @@ let a = Array.from({length:26},(x,_)=>0)//
 let a = Array.from({length:26},(x,index)=>index)//构造一个0-25数组
 ```
 
+四数之和中会用到。  
 看二维数组中是否存在指定一维数组
 ```js
 function arrayEaqual(arr1,arr2){
