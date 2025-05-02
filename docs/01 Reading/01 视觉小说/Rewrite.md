@@ -1952,6 +1952,8 @@ Terra线BAD END回收结束
 :::
 
 ## 路线
+![](https://oss.naglfar28.com/naglfar28/202505022111157.png)
+
 ### 小鸟
 ![](https://oss.naglfar28.com/naglfar28/202503311009773.png)  
 ![](https://oss.naglfar28.com/naglfar28/202504010050819.png)  
@@ -1972,8 +1974,8 @@ Terra线BAD END回收结束
 
 ![](https://oss.naglfar28.com/naglfar28/202503311200804.png)  
 ![](https://oss.naglfar28.com/naglfar28/202504021207519.png)  
-![](https://oss.naglfar28.com/naglfar28/202504021209412.png)
-![Uploading file...251eo]()
+![](https://oss.naglfar28.com/naglfar28/202504021209412.png)  
+![](https://oss.naglfar28.com/naglfar28/202505022050160.png)
 
 ### 露西娅线
 ![](https://oss.naglfar28.com/naglfar28/202504010043392.png)  
@@ -1989,4 +1991,5 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202505021650404.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505021654962.png)
 
-![](https://oss.naglfar28.com/naglfar28/202504140025047.png)
+![](https://oss.naglfar28.com/naglfar28/202504140025047.png)  
+![](https://oss.naglfar28.com/naglfar28/202505022052900.png)
