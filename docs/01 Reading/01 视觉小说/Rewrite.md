@@ -1968,7 +1968,11 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202505031036096.png)
 ![](https://oss.naglfar28.com/naglfar28/202505031055211.png)
 
-⚠️upload failed, check dev console
+![](https://oss.naglfar28.com/naglfar28/202505031154244.png)
+
+![](https://oss.naglfar28.com/naglfar28/202505031153237.png)
+![](https://oss.naglfar28.com/naglfar28/202505031346988.png)
+
 
 ### 千早
 ![](https://oss.naglfar28.com/naglfar28/202503311039062.png)  
