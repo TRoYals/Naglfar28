@@ -1953,6 +1953,7 @@ Terra线BAD END回收结束
 
 ## 路线
 ![](https://oss.naglfar28.com/naglfar28/202505022111157.png)
+![](https://oss.naglfar28.com/naglfar28/202505022143439.png)
 
 ### 小鸟
 ![](https://oss.naglfar28.com/naglfar28/202503311009773.png)  
@@ -1993,3 +1994,4 @@ Terra线BAD END回收结束
 
 ![](https://oss.naglfar28.com/naglfar28/202504140025047.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505022052900.png)
+![](https://oss.naglfar28.com/naglfar28/202505022120749.png)
