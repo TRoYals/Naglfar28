@@ -1976,6 +1976,7 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202505031351263.png)
 ![](https://oss.naglfar28.com/naglfar28/202505040005577.png)
 
+![](https://oss.naglfar28.com/naglfar28/202505040016297.png)
 
 ### 千早
 ![](https://oss.naglfar28.com/naglfar28/202503311039062.png)  
