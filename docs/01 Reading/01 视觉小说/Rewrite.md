@@ -1995,6 +1995,10 @@ Terra线BAD END回收结束
 ### 千早
 ![](https://oss.naglfar28.com/naglfar28/202503311039062.png)  
 ![](https://oss.naglfar28.com/naglfar28/202503311041385.png)
+![](https://oss.naglfar28.com/naglfar28/202505050916901.png)
+![](https://oss.naglfar28.com/naglfar28/202505050941539.png)
+
+
 
 ### 静流
 ![](https://oss.naglfar28.com/naglfar28/202503310937200.png)
@@ -2010,6 +2014,9 @@ Terra线BAD END回收结束
 ### 露西娅线
 ![](https://oss.naglfar28.com/naglfar28/202504010043392.png)  
 ![](https://oss.naglfar28.com/naglfar28/202504031124071.png)
+![](https://oss.naglfar28.com/naglfar28/202505050916561.png)
+
+
 
 ### 朱音
 ![](https://oss.naglfar28.com/naglfar28/202503311054611.png)  
