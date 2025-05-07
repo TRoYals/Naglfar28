@@ -2001,6 +2001,7 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202505051745222.png)
 ![](https://oss.naglfar28.com/naglfar28/202505072331645.png)
 ![](https://oss.naglfar28.com/naglfar28/202505072331215.png)
+![](https://oss.naglfar28.com/naglfar28/202505080028316.png)
 
 
 
@@ -2014,6 +2015,8 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202504021207519.png)  
 ![](https://oss.naglfar28.com/naglfar28/202504021209412.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505022050160.png)
+![](https://oss.naglfar28.com/naglfar28/202505080024117.png)
+
 
 ### 露西娅线
 ![](https://oss.naglfar28.com/naglfar28/202504010043392.png)  
