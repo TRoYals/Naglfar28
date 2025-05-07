@@ -1999,6 +1999,8 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202505050941539.png)
 ![](https://oss.naglfar28.com/naglfar28/202505051725659.png)
 ![](https://oss.naglfar28.com/naglfar28/202505051745222.png)
+![](https://oss.naglfar28.com/naglfar28/202505072331645.png)
+![](https://oss.naglfar28.com/naglfar28/202505072331215.png)
 
 
 
