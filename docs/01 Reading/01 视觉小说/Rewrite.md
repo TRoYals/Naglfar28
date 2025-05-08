@@ -7,7 +7,6 @@ tag:
 
 ![](https://oss.naglfar28.com/naglfar28/202505041052069.png)
 
-
 ![](https://oss.naglfar28.com/naglfar28/202504010023358.png)
 
 ## 攻略
@@ -1647,9 +1646,7 @@ Terra线通关后在标题画面选择start重新开始游戏。
 不在乎
 
 无法回答
-
 ◆MAP⑥a
-
 除指定的右下的窗边以外进行过探索之后（特别是池塘的探索）再进行右下窗边的探索
 
 ◆MAP⑥b
@@ -1955,7 +1952,7 @@ Terra线BAD END回收结束
 :::
 
 ## 路线
-![](https://oss.naglfar28.com/naglfar28/202505022111157.png)
+![](https://oss.naglfar28.com/naglfar28/202505022111157.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505022143439.png)
 
 ### 小鸟
@@ -1964,48 +1961,44 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202504011114733.png)  
 ![](https://oss.naglfar28.com/naglfar28/202504011120675.png)  
 ![](https://oss.naglfar28.com/naglfar28/202504011355479.png)  
-![](https://oss.naglfar28.com/naglfar28/202504051155220.png)
-![](https://oss.naglfar28.com/naglfar28/202505031015000.png)
-![](https://oss.naglfar28.com/naglfar28/202505031032403.png)
-?
-![](https://oss.naglfar28.com/naglfar28/202505031036096.png)
+![](https://oss.naglfar28.com/naglfar28/202504051155220.png)  
+![](https://oss.naglfar28.com/naglfar28/202505031015000.png)  
+![](https://oss.naglfar28.com/naglfar28/202505031032403.png)  
+?  
+![](https://oss.naglfar28.com/naglfar28/202505031036096.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505031055211.png)
 
 ![](https://oss.naglfar28.com/naglfar28/202505031154244.png)
 
-![](https://oss.naglfar28.com/naglfar28/202505031153237.png)
-![](https://oss.naglfar28.com/naglfar28/202505031346988.png)
-![](https://oss.naglfar28.com/naglfar28/202505031350901.png)
-![](https://oss.naglfar28.com/naglfar28/202505031351263.png)
+![](https://oss.naglfar28.com/naglfar28/202505031153237.png)  
+![](https://oss.naglfar28.com/naglfar28/202505031346988.png)  
+![](https://oss.naglfar28.com/naglfar28/202505031350901.png)  
+![](https://oss.naglfar28.com/naglfar28/202505031351263.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505040005577.png)
 
-![](https://oss.naglfar28.com/naglfar28/202505040016297.png)
-![](https://oss.naglfar28.com/naglfar28/202505040819107.png)
-![](https://oss.naglfar28.com/naglfar28/202505040819729.png)
-![](https://oss.naglfar28.com/naglfar28/202505040838700.png)
-![](https://oss.naglfar28.com/naglfar28/202505040843216.png)
-![](https://oss.naglfar28.com/naglfar28/202505041024453.png)
-![](https://oss.naglfar28.com/naglfar28/202505041025913.png)
-![](https://oss.naglfar28.com/naglfar28/202505041028388.png)
-![](https://oss.naglfar28.com/naglfar28/202505041028868.png)
+![](https://oss.naglfar28.com/naglfar28/202505040016297.png)  
+![](https://oss.naglfar28.com/naglfar28/202505040819107.png)  
+![](https://oss.naglfar28.com/naglfar28/202505040819729.png)  
+![](https://oss.naglfar28.com/naglfar28/202505040838700.png)  
+![](https://oss.naglfar28.com/naglfar28/202505040843216.png)  
+![](https://oss.naglfar28.com/naglfar28/202505041024453.png)  
+![](https://oss.naglfar28.com/naglfar28/202505041025913.png)  
+![](https://oss.naglfar28.com/naglfar28/202505041028388.png)  
+![](https://oss.naglfar28.com/naglfar28/202505041028868.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505041042606.png)
-
-
 
 ### 千早
 ![](https://oss.naglfar28.com/naglfar28/202503311039062.png)  
-![](https://oss.naglfar28.com/naglfar28/202503311041385.png)
-![](https://oss.naglfar28.com/naglfar28/202505050916901.png)
-![](https://oss.naglfar28.com/naglfar28/202505050941539.png)
-![](https://oss.naglfar28.com/naglfar28/202505051725659.png)
-![](https://oss.naglfar28.com/naglfar28/202505051745222.png)
-![](https://oss.naglfar28.com/naglfar28/202505072331645.png)
-![](https://oss.naglfar28.com/naglfar28/202505072331215.png)
-![](https://oss.naglfar28.com/naglfar28/202505080028316.png)
-![](https://oss.naglfar28.com/naglfar28/202505080034941.png)
+![](https://oss.naglfar28.com/naglfar28/202503311041385.png)  
+![](https://oss.naglfar28.com/naglfar28/202505050916901.png)  
+![](https://oss.naglfar28.com/naglfar28/202505050941539.png)  
+![](https://oss.naglfar28.com/naglfar28/202505051725659.png)  
+![](https://oss.naglfar28.com/naglfar28/202505051745222.png)  
+![](https://oss.naglfar28.com/naglfar28/202505072331645.png)  
+![](https://oss.naglfar28.com/naglfar28/202505072331215.png)  
+![](https://oss.naglfar28.com/naglfar28/202505080028316.png)  
+![](https://oss.naglfar28.com/naglfar28/202505080034941.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505080050849.png)
-
-
 
 ### 静流
 ![](https://oss.naglfar28.com/naglfar28/202503310937200.png)
@@ -2016,16 +2009,13 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202503311200804.png)  
 ![](https://oss.naglfar28.com/naglfar28/202504021207519.png)  
 ![](https://oss.naglfar28.com/naglfar28/202504021209412.png)  
-![](https://oss.naglfar28.com/naglfar28/202505022050160.png)
+![](https://oss.naglfar28.com/naglfar28/202505022050160.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505080024117.png)
-
 
 ### 露西娅线
 ![](https://oss.naglfar28.com/naglfar28/202504010043392.png)  
-![](https://oss.naglfar28.com/naglfar28/202504031124071.png)
+![](https://oss.naglfar28.com/naglfar28/202504031124071.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505050916561.png)
-
-
 
 ### 朱音
 ![](https://oss.naglfar28.com/naglfar28/202503311054611.png)  
@@ -2038,9 +2028,9 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202505021654962.png)
 
 ![](https://oss.naglfar28.com/naglfar28/202504140025047.png)  
-![](https://oss.naglfar28.com/naglfar28/202505022052900.png)
+![](https://oss.naglfar28.com/naglfar28/202505022052900.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505022120749.png)
 
-## ? 键
-![](https://oss.naglfar28.com/naglfar28/202505031047199.png)
+##? 键
+![](https://oss.naglfar28.com/naglfar28/202505031047199.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505040845549.png)
