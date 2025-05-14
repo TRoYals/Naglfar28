@@ -2016,6 +2016,7 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202505080024117.png)
 ![](https://oss.naglfar28.com/naglfar28/202505121310220.png)
 ![](https://oss.naglfar28.com/naglfar28/202505131313813.png)
+![](https://oss.naglfar28.com/naglfar28/202505141254950.png)
 
 ### 露西娅线
 ![](https://oss.naglfar28.com/naglfar28/202504010043392.png)  
