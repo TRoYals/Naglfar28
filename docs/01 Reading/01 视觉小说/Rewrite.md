@@ -2021,6 +2021,8 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202505150013580.png)
 ![](https://oss.naglfar28.com/naglfar28/202505150032821.png)
 ![](https://oss.naglfar28.com/naglfar28/202505150036236.png)
+![](https://oss.naglfar28.com/naglfar28/202505151311866.png)
+![](https://oss.naglfar28.com/naglfar28/202505160004677.png)
 
 
 
