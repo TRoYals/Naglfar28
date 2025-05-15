@@ -5,9 +5,7 @@ article: false
 tag:
 ---
 
-![](https://oss.naglfar28.com/naglfar28/202505041052069.png)
-
-![](https://oss.naglfar28.com/naglfar28/202504010023358.png)
+![](https://oss.naglfar28.com/naglfar28/202505160037561.png)
 
 ## 攻略
 ::: tip
@@ -2013,20 +2011,26 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202504021207519.png)  
 ![](https://oss.naglfar28.com/naglfar28/202504021209412.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505022050160.png)  
-![](https://oss.naglfar28.com/naglfar28/202505080024117.png)
-![](https://oss.naglfar28.com/naglfar28/202505121310220.png)
-![](https://oss.naglfar28.com/naglfar28/202505131313813.png)
-![](https://oss.naglfar28.com/naglfar28/202505141254950.png)
-![](https://oss.naglfar28.com/naglfar28/202505150013250.png)
-![](https://oss.naglfar28.com/naglfar28/202505150013580.png)
-![](https://oss.naglfar28.com/naglfar28/202505150032821.png)
-![](https://oss.naglfar28.com/naglfar28/202505150036236.png)
-![](https://oss.naglfar28.com/naglfar28/202505151311866.png)
-![](https://oss.naglfar28.com/naglfar28/202505160004677.png)
-
-
-
-
+![](https://oss.naglfar28.com/naglfar28/202505080024117.png)  
+![](https://oss.naglfar28.com/naglfar28/202505121310220.png)  
+![](https://oss.naglfar28.com/naglfar28/202505131313813.png)  
+![](https://oss.naglfar28.com/naglfar28/202505141254950.png)  
+![](https://oss.naglfar28.com/naglfar28/202505150013250.png)  
+![](https://oss.naglfar28.com/naglfar28/202505150013580.png)  
+![](https://oss.naglfar28.com/naglfar28/202505150032821.png)  
+![](https://oss.naglfar28.com/naglfar28/202505150036236.png)  
+![](https://oss.naglfar28.com/naglfar28/202505151311866.png)  
+![](https://oss.naglfar28.com/naglfar28/202505160004677.png)  
+![](https://oss.naglfar28.com/naglfar28/202505160018241.png)  
+![](https://oss.naglfar28.com/naglfar28/202505160019975.png)  
+![](https://oss.naglfar28.com/naglfar28/202505160026367.png)  
+![](https://oss.naglfar28.com/naglfar28/202505160027559.png)  
+![](https://oss.naglfar28.com/naglfar28/202505160035376.png)  
+![](https://oss.naglfar28.com/naglfar28/202505160035680.png)  
+![](https://oss.naglfar28.com/naglfar28/202505160035088.png)  
+![](https://oss.naglfar28.com/naglfar28/202505160036554.png)  
+![](https://oss.naglfar28.com/naglfar28/202505160036584.png)  
+![](https://oss.naglfar28.com/naglfar28/202505160036324.png)
 
 ### 露西娅线
 ![](https://oss.naglfar28.com/naglfar28/202504010043392.png)  
@@ -2045,12 +2049,9 @@ Terra线BAD END回收结束
 
 ![](https://oss.naglfar28.com/naglfar28/202504140025047.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505022052900.png)  
-![](https://oss.naglfar28.com/naglfar28/202505022120749.png)
-![](https://oss.naglfar28.com/naglfar28/202505112339147.png)
+![](https://oss.naglfar28.com/naglfar28/202505022120749.png)  
+![](https://oss.naglfar28.com/naglfar28/202505112339147.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505112339099.png)
-
-
-
 
 ##? 键  
 ![](https://oss.naglfar28.com/naglfar28/202505031047199.png)  
