@@ -2042,6 +2042,8 @@ Terra线BAD END回收结束
 ![](https://oss.naglfar28.com/naglfar28/202505171145160.png)
 ![](https://oss.naglfar28.com/naglfar28/202505171158426.png)
 ![](https://oss.naglfar28.com/naglfar28/202505171158803.png)
+![](https://oss.naglfar28.com/naglfar28/202505171209796.png)
+![](https://oss.naglfar28.com/naglfar28/202505171209841.png)
 
 
 
