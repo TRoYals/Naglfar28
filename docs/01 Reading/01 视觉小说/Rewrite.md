@@ -2039,7 +2039,12 @@ Terra线BAD END回收结束
 
 ### 朱音
 ![](https://oss.naglfar28.com/naglfar28/202503311054611.png)  
-![](https://oss.naglfar28.com/naglfar28/202503311137575.png)
+
+![](https://oss.naglfar28.com/naglfar28/202505171019386.png)
+![](https://oss.naglfar28.com/naglfar28/202505171021322.png)
+![](https://oss.naglfar28.com/naglfar28/202505171032798.png)
+![](https://oss.naglfar28.com/naglfar28/202505171032162.png)
+
 
 ![](https://oss.naglfar28.com/naglfar28/202504010023902.png)
 
