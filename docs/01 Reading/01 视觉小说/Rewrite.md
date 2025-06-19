@@ -10,6 +10,8 @@ date modified: 2025-06-20
 ![](https://oss.naglfar28.com/naglfar28/202505240859621.png)
 
 ![](https://oss.naglfar28.com/naglfar28/202505240858860.png)
+## Rewrite
+人类赞歌？
 
 ## 记录
 20250518 推完了 Lucia 线，龙骑士 07 真厉害 啊，推到一半的时候，还以为这条线是条废线，玩的途中才发现其构思之巧妙，有很好的伏笔还有诡计，完成度很高，还有糖。  
@@ -173,6 +175,12 @@ date modified: 2025-06-20
 ![](https://oss.naglfar28.com/naglfar28/202505240902489.png)
 
 ## Terra
-![](https://oss.naglfar28.com/naglfar28/202505260024167.png)  
-![](https://oss.naglfar28.com/naglfar28/202505260024816.png)
 
+铃木凡人
+
+![](https://oss.naglfar28.com/naglfar28/202505260024167.png)  
+![](https://oss.naglfar28.com/naglfar28/202505260024816.png)  
+![](https://oss.naglfar28.com/naglfar28/202506200125838.png)
+
+![](https://oss.naglfar28.com/naglfar28/202506200125930.png)  
+![](https://oss.naglfar28.com/naglfar28/202506200125737.png)

@@ -5,9 +5,12 @@ article: false
 excerpt: 心之雨
 tag:
  - game
+date: 2025-03-23
+date modified: 2025-06-20
 ---
 
 # 写在前面
+でも 止まぬ雨はない  
 
 游戏开始时间：2022 年 5 月 5 日 mac 虚拟机上
 
