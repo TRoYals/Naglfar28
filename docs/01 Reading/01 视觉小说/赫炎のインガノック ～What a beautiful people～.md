@@ -5,6 +5,7 @@ end:
 date: 2024-01-08
 article: false
 tags: 
+date modified: 2025-06-20
 ---
 
 ![](http://oss.naglfar28.com/naglfar28/202401081424513.png)
@@ -94,7 +95,7 @@ emm
  あたしは静かな仕事の意識を途端に失って、 ぴょこんと姿を現してしまっていた。駄目。  
 
 ## 第三章：音、奏でればきっと
-![](https://oss.naglfar28.com/naglfar28/202503061025761.png)
+![](https://oss.naglfar28.com/naglfar28/202503061025761.png)  
 ![Uploading file...rkms5]()
 
 ## 第四章： 鏡、何も映らなくても

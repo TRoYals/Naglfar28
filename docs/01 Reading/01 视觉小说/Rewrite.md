@@ -3,6 +3,7 @@ title: Rewrite
 date: 2025-03-30
 article: false
 tag:
+date modified: 2025-06-20
 ---
 
 ![](https://oss.naglfar28.com/naglfar28/202505160037561.png)  
@@ -172,7 +173,6 @@ tag:
 ![](https://oss.naglfar28.com/naglfar28/202505240902489.png)
 
 ## Terra
-![](https://oss.naglfar28.com/naglfar28/202505260024167.png)
+![](https://oss.naglfar28.com/naglfar28/202505260024167.png)  
 ![](https://oss.naglfar28.com/naglfar28/202505260024816.png)
-
 
